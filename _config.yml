@@ -7,3 +7,5 @@ autoprefixer:
 #    - Safari > 2
 safe: false
 future: true
+baseurl: "/dsa2024nyeri_demo"
+url: "http://www.datascienceafrica.org"
