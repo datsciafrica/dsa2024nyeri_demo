@@ -1,0 +1,332 @@
+# Instructions
+#
+# Schedule is organized in tracks (summer school, field work and workshop)
+# This represented by the tuple
+#  [session_id_ss, session_id_fw, ...]
+# Use:
+# - 404 --> to indicate skip/missing section in a track
+# - small-break --> coffee break
+# - large-break --> lunch break
+
+
+# Summer school on 08th May 2023---------------------------
+-
+  date: "2023-05-08"
+  dateReadable: "May 08, 2023"
+  tracks:
+    - {title: "Summer School", color: "#006991"}
+    # - {title: "Field Work", color: "#000000"} program_overview
+  timeslots:
+    - {
+    	startTime: "09:00",
+    	endTime: "09:20",
+    	sessionIds: [introductions]
+    }
+    - {
+    	startTime: "09:20",
+    	endTime: "09:40",
+    	sessionIds: [program_overview]
+    }
+    - {
+    	startTime: "09:40",
+    	endTime: "10:00",
+    	sessionIds: [opening_remarks]
+    }
+    - {
+        startTime: "10:15",
+        endTime: "11:15",
+        sessionIds: [r_programming, python_programming]
+    }
+    - {
+     	startTime: "11:15",
+     	endTime: "11:30",
+     	sessionIds: [small-break]
+     }
+    - {
+    	startTime: "11:30",
+    	endTime: "13:00",
+    	sessionIds: [linear_algebra, natural_language_processing]
+    }
+    - {
+     	startTime: "13:00",
+     	endTime: "14:00",
+     	sessionIds: [lunch-break]
+     }
+    - {
+        startTime: "14:00",
+        endTime: "16:00",
+        sessionIds: [linear_algebra_lab, natural_language_processing_lab]
+    }
+    - {
+     	startTime: "16:00",
+     	endTime: "16:30",
+     	sessionIds: [small-break]
+     }
+    - {
+    	startTime: "16:30",
+    	endTime: "18:00",
+    	sessionIds: [regression_analysis, computer_vision]
+    }
+    
+# Summer school on 9th May 2023------------------------------------------------------------
+-
+  date: "2023-05-09"
+  dateReadable: "May 09, 2023"
+  tracks:
+    - {title: "Summer School", color: "#D33"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+#    - {
+#    	startTime: "08:00",
+#    	endTime: "09:00",
+#    	sessionIds: [opening_remarks]
+#    }
+    - {
+        startTime: "09:00",
+        endTime: "10:30",
+        sessionIds: [regression_analysis_lab, computer_vision_lab]
+    }
+    - {
+     	startTime: "10:30",
+     	endTime: "11:00",
+     	sessionIds: [small-break]
+     }
+    - {
+    	startTime: "11:00",
+    	endTime: "13:00",
+    	sessionIds: [dimensionality_reduction, reinforcement_learning]
+    }
+    - {
+     	startTime: "13:00",
+     	endTime: "14:00",
+     	sessionIds: [lunch-break]
+     }
+    - {
+        startTime: "14:00",
+        endTime: "16:00",
+        sessionIds: [data_storytelling]
+    }
+    - {
+     	startTime: "16:00",
+     	endTime: "16:30",
+     	sessionIds: [small-break]
+     }
+    - {
+    	startTime: "16:30",
+    	endTime: "18:00",
+    	sessionIds: [data_wrangling]
+    }
+-
+  date: "2023-05-10"
+  dateReadable: "May 10, 2023"
+  tracks:
+    - {title: "Summer School", color: "#006991"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:30",
+        sessionIds: [data_engineering]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "11:00",
+    	sessionIds: [small-break]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "13:00",
+        sessionIds: [machine_learning]
+    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "13:00",
+#        sessionIds: [serve_monitor_explain_manage]
+#    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [lunch-break]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [ML_model_deployment_web_services]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionIds: [ML_model_deployment_embedded_models]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [data_oriented_architecture]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "18:00",
+        sessionIds: [hackathon_launch]
+    }
+    
+#-
+#  date: "2020-07-29"
+#  dateReadable: "July 29, 2020"
+#  tracks:
+#    - {title: "Summer School", color: "#006991"}
+#    # - {title: "Field Work", color: "#000000"}
+#  timeslots:
+#    - {
+#        startTime: "08:00",
+#        endTime: "09:00",
+#        sessionIds: [social_media_analysis]
+#    }
+#    - {
+#        startTime: "09:00",
+#        endTime: "11:00",
+#        sessionIds: [md4sg]
+#    }
+#    # - {
+#    #     startTime: "10:00",
+#    #     endTime: "11:00",
+#    #     sessionIds: [md4sg]
+#    # }
+#    - {
+#        startTime: "11:00",
+#        endTime: "12:00",
+#        sessionIds: [embeddings]
+#    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "12:30",
+#        sessionIds: [small-break]
+#    }
+#    - {
+#        startTime: "12:30",
+#        endTime: "13:30",
+#        sessionIds: [embeddings_labs]
+#    }
+#    - {
+#        startTime: "13:30",
+#        endTime: "14:30",
+#        sessionIds: [r_talk]
+#    }
+#    - {
+#        startTime: "14:30",
+#        endTime: "15:30",
+#        sessionIds: [data_eng]
+#    }
+#    - {
+#        startTime: "16:00",
+#        endTime: "17:00",
+#        sessionIds: [ml_health_ethics]
+#    }
+#    - {
+#        startTime: "17:00",
+#        endTime: "17:15",
+#        sessionIds: [ss_conclusion]
+#    }
+#
+#    
+#
+## --------------------------------------------------
+## Workshop
+-
+  date: "2023-05-11"
+  dateReadable: "May 11, 2023 - Workshop Day I"
+  tracks:
+    - {title: "Workshop", color: "#D33"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "09:30",
+        sessionIds: [welcoming_remarks]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:00",
+        sessionIds: [DSA_2_point_0]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [socio-economic_development]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [small-break]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "13:00",
+    	sessionIds: [breakout_session_1]
+    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "13:00",
+#        sessionIds: [early_career_1]
+#    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [lunch-break]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "16:00",
+        sessionIds: [breakout_session_2]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "18:00",
+        sessionIds: [breakout_session_3]
+    }
+    
+-
+  date: "2023-05-12"
+  dateReadable: "May 12, 2023 - Workshop Day II"
+  tracks:
+    - {title: "Workshop", color: "#006991"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:30",
+        sessionIds: [panel_discussions_1, panel_discussions_2]
+    }
+#    - {
+#        startTime: "09:30",
+#        endTime: "10:30",
+#        sessionIds: [junior_researchers]
+#    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "13:00",
+        sessionIds: [plenary_day_2_1, plenary_day_2_2, plenary_day_2_3]
+    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "13:00",
+#        sessionIds: [industry_talks_2]
+#    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [closing]
+    }
+    

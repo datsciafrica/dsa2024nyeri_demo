@@ -1,0 +1,805 @@
+# Special sessions
+-
+  id: small-break
+  title: " [[[ Break ]]] "
+  place: "AoE"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: lunch-break
+  title: " [[[ Lunch Break ]]] " 
+  place: "TBD"
+  service: true
+  description: "Bon Appetit"
+
+# Talks, field work, Iot, Workshop sessions
+#-
+#  id: 001
+#  title: "Machine Learning Systems"
+#  description: "TBD."
+#  subtype: workshop
+#  speakers: [neil,andrei,meissner]
+#  language: en
+#  complexity: "Intermediate"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+#
+#-
+#  id: 003
+#  title: "Reinforcement Learning and Robotics"
+#  description: "TBD"
+#  subtype: presentation
+#  speakers: [billy]
+#  language: en
+#  complexity: "Intermediate"
+#-
+#  id: 004
+#  title: "IoT and Embbedded Devices"
+#  description: "TBD"
+#  subtype: workshop #keynote
+#  speakers: [engineer, ciira]
+#  language: en
+#  complexity: "Beginner"
+  # presentation: "https://speakerdeck.com/"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 005
+#   title: "Introduction to Machine Learning"
+#   description: "TBD"
+#   subtype: presentation
+#   speakers: [neil]
+#   language: en
+#   complexity: "Beginner"
+#   presentation: "https://speakerdeck.com/"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# Summer School Schedule 18th July-------------------------------------------------------------------Registration
+#-
+#  id: registration
+#  title: "Registration"
+#  description: "Registration"
+#  subtype: presentation
+#  speakers: []
+#  language: en
+#  complexity: "Beginner"
+-
+  id: introductions
+  title: "Introductions"
+  description: "Introductions"
+  subtype: presentation
+  speakers: [ruranga]
+  language: en
+  complexity: "Beginner"
+-
+  id: program_overview
+  title: "Program Overview"
+  description: "Program Overview"
+  subtype: presentation
+  speakers: [ciira]
+  language: en
+  complexity: "Beginner"
+-
+  id: opening_remarks
+  title: "Opening Remarks"
+  description: "Opening Remarks"
+  subtype: presentation
+  speakers: [rep_university_of_rwanda]
+  language: en
+  complexity: "Beginner"
+-
+  id: r_programming
+  title: "DS Track - R Programming"
+  description: "DS Track - R Programming"
+  subtype: presentation
+  speakers: [mwangi]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
+-
+  id: python_programming
+  title: "AI Track - Python Programming"
+  description: "AI Track - Python Programming"
+  subtype: presentation
+  speakers: [batamuliza]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/14b_46Nnl4tJHCGN7Q6-BUd3PnQqhUS1H?usp=share_link"
+-
+  id: linear_algebra
+  title: "DS Track - Linear Algebra"
+  description: "DS Track - Linear Algebra"
+  subtype: presentation
+  speakers: [ruganzu]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
+-
+  id: natural_language_processing
+  title: "AI Track - Natural Language Processing"
+  description: "AI Track - Natural Language Processing"
+  subtype: presentation
+  speakers: [kipkebut]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1j_WC8p48-a0rgWfhPX1UeX9ngv6HYZam?usp=share_link"
+-
+  id: linear_algebra_lab
+  title: "DS Track - Linear Algebra Lab"
+  description: "DS Track - Linear Algebra Lab"
+  subtype: presentation
+  speakers: [ruganzu]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
+-
+  id: natural_language_processing_lab
+  title: "AI Track - Natural Language Processing"
+  description: "AI Track - Natural Language Processing"
+  subtype: presentation
+  speakers: [kipkebut]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1j_WC8p48-a0rgWfhPX1UeX9ngv6HYZam?usp=share_link" 
+-
+  id: regression_analysis
+  title: "DS Track - Regression Analysis "
+  description: "DS Track - Regression Analysis "
+  subtype: presentation
+  speakers: [mwangi]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1KfXY10sc1P5_0949behaLhoAr_jJ1oTw?usp=share_link" 
+-
+  id: computer_vision
+  title: "AI Track -  Computer Vision"
+  description: "AI Track -  Computer Vision"
+  subtype: presentation
+  speakers: [katumba]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1xdgaeHxt_xl4qTQL_yHQr43ZbYVoozC1?usp=share_link" 
+# Summer School Day 2----------------------------------------------------------------------
+
+
+-
+  id: regression_analysis_lab
+  title: "DS Track - Regression Analysis Lab"
+  description: "DS Track - Regression Analysis Lab"
+  subtype: presentation
+  speakers: [mwangi]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1KfXY10sc1P5_0949behaLhoAr_jJ1oTw?usp=share_link"
+-
+  id: computer_vision_lab
+  title: "AI Track - Computer Vision Lab"
+  description: "AI Track - Computer Vision Lab"
+  subtype: presentation
+  speakers: [katumba]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1xdgaeHxt_xl4qTQL_yHQr43ZbYVoozC1?usp=share_link"
+-
+  id: dimensionality_reduction
+  title: "DS Track - Dimensionality Reduction"
+  description: "DS Track - Dimensionality Reduction"
+  subtype: presentation
+  speakers: [mwangi]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1GYV1un7c1sf7PKovoM8z9hJoVvT8H995?usp=share_link"
+-
+  id: reinforcement_learning
+  title: "AI Track - Reinforcement Learning"
+  description: "AI Track - Reinforcement Learning"
+  subtype: presentation
+  speakers: [billy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1AA5Ad9JTJ_aqUDNavSav1Xaeg4yTN8Ef?usp=share_link"
+-
+  id: dimensionality_reduction_lab
+  title: "DS Track - Dimensionality Reduction Lab"
+  description: "DS Track - Dimensionality Reduction Lab"
+  subtype: presentation
+  speakers: [mwangi]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1GYV1un7c1sf7PKovoM8z9hJoVvT8H995?usp=share_link"
+-
+  id: reinforcement_learning_lab
+  title: "AI Track - Reinforcement Learning Lab"
+  description: "AI Track - Reinforcement Learning Lab"
+  subtype: presentation
+  speakers: [billy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1AA5Ad9JTJ_aqUDNavSav1Xaeg4yTN8Ef?usp=share_link"
+-
+  id: data_wrangling
+  title: "Data Wrangling"
+  description: "Data Wrangling"
+  subtype: presentation
+  speakers: [kouanou]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1x0CrQpGewWcuH1Thcxy5ge8rMajE__pR?usp=share_link"
+
+
+#Summer School Day 3---------------------------------------------------------------------------
+-
+  id: data_engineering
+  title: "Data Engineering"
+  description: "Data Engineering"
+  subtype: presentation
+  speakers: [kemme]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://drive.google.com/drive/folders/130yjbq0VKY3kcMjuePTY0FGNWk1EFLPg?usp=sharing"
+-
+  id: data_storytelling 
+  title: "Data Storytelling"
+  description: "Data Storytelling"
+  subtype: presentation
+  speakers: [feng, morine]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: machine_learning
+  title: "Machine Learning Operations (MLoPs)"
+  description: "Machine Learning Operations (MLoPs)"
+  subtype: presentation
+  speakers: [andrei,ed_shee]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+#-
+#  id: serve_monitor_explain_manage
+#  title: "Serve, monitor, explain, and manage ML Models"
+#  description: "Serve, monitor, explain, and manage ML Models"
+#  subtype: presentation
+#  speakers: [rep_seldon]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: ""
+-
+  id: ML_model_deployment_web_services
+  title: "AI  / ML model deployment as Web Services"
+  description: "AI  / ML model deployment as Web Services"
+  subtype: presentation
+  speakers: [kiptoo]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://drive.google.com/drive/folders/1XPq8dMcaWO9Y11z7T4e0V4C5qAAe2b3L?usp=share_link"
+-
+  id: ML_model_deployment_embedded_models 
+  title: "AI  / ML model deployment as embedded models"
+  description: "AI  / ML model deployment as embedded models"
+  subtype: presentation
+  speakers: [Jongboom]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: data_oriented_architecture
+  title: "Data-oriented Architecture and Real-World ML Systems"
+  description: "Data-oriented Architecture and Real-World ML Systems"
+  subtype: presentation
+  speakers: [christian]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: hackathon_launch
+  title: "Hackathon Launch"
+  description: "Hackathon Launch[The data science process, Team formation, Problem identification]"
+  subtype: presentation
+  speakers: [thiga]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://drive.google.com/drive/folders/12Ze0LGJOuv4CEUXdRwV0ZyZN9Lkjdmyw?usp=share_link"
+#--------------------------------------------------------------------------------------------------
+#Work Shop Day 1---------------------------------------------------------------------------
+-
+  id: welcoming_remarks
+  title: "Growing Data Science Scholarship, Research and Practice in Africa: The Case of the University of Rwanda"
+  description: "Growing Data Science Scholarship, Research and Practice in Africa: The Case of the University of Rwanda"
+  subtype: presentation
+  speakers: [rep_university_of_rwanda]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: DSA_2_point_0
+  title: "DSA 2.0"
+  description: "DSA 2.0"
+  subtype: presentation
+  speakers: [ciira]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: socio-economic_development
+  title: "Keynote - Harnessing Data Science for Africa’s Socio-Economic Development "
+  description: "Keynote - Harnessing Data Science for Africa’s Socio-Economic Development "
+  subtype: presentation
+  speakers: [neil]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: breakout_session_1
+  title: "Breakout Session 1 [Agriculture, Environment, Health]"
+  description: "Breakout Session 1 [Agriculture, Environment, Health]"
+  subtype: presentation
+  speakers: [dina, martin, kimeto]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: breakout_session_2
+  title: "Breakout Session 2 [Agriculture, Environment, Health]"
+  description: "Breakout Session 2 [Agriculture, Environment, Health]"
+  subtype: presentation
+  speakers: [dina, morine, kimeto]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: breakout_session_3
+  title: "Breakout Session 3 [Cross cutting applications, Methodology, NLP]"
+  description: "Breakout Session 3 [Cross cutting applications, Methodology, NLP]"
+  subtype: presentation
+  speakers: [johnquinn, katumba, kipkebut]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+#-
+#  id: early_career_2
+#  title: "Early Career Researchers Research Progress & Outputs"
+#  description: "Early Career Researchers Research Progress & Outputs"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: ""
+#-
+#  id: plenary
+#  title: "Plenary: Data-oriented Architecture and Real-World ML Systems"
+#  description: "Plenary: Data-oriented Architecture and Real-World ML Systems"
+#  subtype: presentation
+#  speakers: [andrei]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: ""
+
+#--------------------------------------------------------------------------------------------------
+#Work Shop Day 2---------------------------------------------------------------------------
+#-
+#  id: breakout_session_3
+#  title: "Breakout Session 3[Cross cutting applications, Methodology, NLP]"
+#  description: "Breakout Session 3[Cross cutting applications, Methodology, NLP]"
+#  subtype: presentation
+#  speakers: [johnquinn, katumba, kipkebut]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+-
+  id: plenary_day_2_1
+  title: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+  description: "Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+  subtype: presentation
+  speakers: [ernest]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+-
+  id: plenary_day_2_2
+  title: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+  description: "Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+  subtype: presentation
+  speakers: [ruranga]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+-
+  id: plenary_day_2_3
+  title: "Plenary: Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
+  description: "Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
+  subtype: presentation
+  speakers: [osei]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  
+#- 
+#  id: junior_researchers
+#  title: "Junior Researchers Research Progress & Outputs"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+#- 
+#  id: senior_researchers
+#  title: "Senior Researchers Research Progress & Outputs"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+#- 
+#  id: plenary_s1
+#  title: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+#  description: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+#- 
+#  id: plenary_s2
+#  title: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+#  description: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+- 
+  id: panel_discussions_1
+  title: "Panel Discussions: Data Collection for Data Science – Lacuna Fund"
+  description: "Data Collection for Data Science – Lacuna Fund"
+  subtype: presentation
+  speakers: [elaine]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: panel_discussions_2
+  title: "Panel Discussions: Data Science and Policy"
+  description: "Data Science and Policy"
+  subtype: presentation
+  speakers: [morine]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: closing
+  title: "Closing Remarks"
+  subtype: presentation
+  speakers: [ruranga]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+#- 
+#  id: md4sg
+#  title: "MD4SG: Mechanism Design for Social Good"
+#  subtype: presentation
+#  description: "Mechanism Design for Social Good (MD4SG) is a multi-institutional initiative using techniques from algorithms, 
+#  optimization, and mechanism design, along with insights from other disciplines, to improve access to opportunity 
+#  for historically underserved and disadvantaged communities. MD4SG was founded by Rediet Abebe and Kira Goldner 
+#  in the fall of 2016 as a small reading group. Since its inception, the group — co-organized by Rediet Abebe, 
+#  Irene Lo, Ana-Andreea Stoica, and Francisco Marmolejo — has also grown into a network of over 1000 participants 
+#  from 100 institutions and 30 countries who are united by their interest to use an interdisciplinary approach 
+#  to tackle problems of societal importance. The online working groups have served as a backbone of MD4SG over the years. 
+#  In this mini-tutorial, we showcase work focused on and relevant to the African continent, as presented by the leaders of 
+#  the different working groups. 
+#
+#  Topics:
+#  Climate change (Lily Xu & Wanyi Li),
+#  Inequality (Samuel Taggart),
+#  Developing Nations (Francisco Marmolejo-Cossio),
+#  Data Economies (Abeba Birhane & George Obaido)
+#  "
+#  speakers: [rediet,abeba,wanyili,lilyxu,samuel,francisco,obaido,ana_andreea,irenelo]
+#  language: en
+#  complexity: "Intermediate"
+#  # presentation: "tbd"
+#
+#- 
+#  id: data_eng
+#  title: "Data Engineering in Integrity/Security"
+#  subtype: presentation
+#  speakers: [nasia]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+#- 
+#  id: social_connectedness
+#  title: "Social Connectedness between African Countries"
+#  subtype: presentation
+#  speakers: [bailey]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+#- 
+#  id: africapolis
+#  title: "AfricaPolis"
+#  subtype: presentation
+#  speakers: [Abel]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+#- 
+#  id: fb_recruiting
+#  title: "Recruiting/Resume Writing"
+#  subtype: presentation
+#  speakers: [kuldip]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: keynote_dina
+#  title: "Keynote: Towards Automated Poultry Diseases Diagnostics"
+#  subtype: presentation
+#  speakers: [dina]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: keynote_Ernest
+#  title: "Keynote: #"
+#  subtype: presentation
+#  speakers: [ernest]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: keynote_Engineer
+#  title: "Keynote: #"
+#  subtype: presentation
+#  speakers: [engineer]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: keynote_elaine
+#  title: "Keynote: Monitoring Behavioral Risk Factors with Internet Search Data"
+#  subtype: presentation
+#  speakers: [elaine]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: ss_conclusion
+#  title: "End of part I: Summer School"
+#  subtype: presentation
+#  speakers: [joyce,billy,martin,engineer,morine]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: lacuna_fund_talk
+#  title: "Lacuna Fund"
+#  subtype: presentation
+#  speakers: [jennifer]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: megain_talk
+#  title: "Keynote: Optimal Decision Making in Healthcare"
+#  subtype: presentation
+#  speakers: [megan_allen]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: jared_talk
+#  title: "Deploying species identification models on camera traps and web application for automatic monitoring of animal species in conservation area"
+#  subtype: presentation
+#  speakers: [jared]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: jason_talk
+#  title: "Leveraging IoT and Machine Learning for Improved Monitoring of Water Resources"
+#  subtype: presentation
+#  speakers: [jason]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: UNGlobal_Pulse
+#  title: "Keynote: UN Pulse Lab Kampala"
+#  subtype: presentation
+#  speakers: [hidalgo,martin]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: dsa_ug
+#  title: "Panel: Data Science Africa Uganda Chapter"
+#  subtype: presentation
+#  speakers: [joyce,martin,ernest,engineer,justus]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#-
+#  id: dsa_grant
+#  title: "DSA Grant Announcement"
+#  description: "Special announcement"
+#  subtype: presentation
+#  speakers: [ciira]
+#  language: en
+#  complexity: "Beginner"
+#-
+#  id: r_talk
+#  title: "Exploring R for Spatial Analytics"
+#  description: "Exploring R for Spatial Analytics"
+#  subtype: presentation
+#  speakers: [shelmith]
+#  language: en
+#  complexity: "Intermediate"
+#-
+#  id: sabelo_keynote
+#  title: "Ubuntu Personhood & Decolonizing AI"
+#  description: "Ubuntu Personhood & Decolonizing AI"
+#  subtype: presentation
+#  speakers: [sabelo]
+#  language: en
+#  complexity: "Intermediate"
+#-
+#  id: eshangazi_talk
+#  title: "E-Shangazi"
+#  description: ""
+#  subtype: presentation
+#  speakers: [dora]
+#  language: en
+#  complexity: "Intermediate"
+#
+#
+##-------------------------------------------------
+#- 
+#  id: paper1
+#  title: "Contributed Paper 1: Automatic screening tool for Pap smears - Jaafaru Jibrin"
+#  subtype: presentation
+#  speakers: [author1]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: paper2
+#  title: "Contributed Paper 2: A Deep Learning Approach for Quantifying the Effects of Tuta absoluta in
+#Tomato Plants - Loyani Kisula Loyani"
+#  subtype: presentation
+#  speakers: [author]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: paper3
+#  title: "Contributed Paper 3: A platform for disease intervention planning - Charles M. Wachira"
+#  subtype: presentation
+#  speakers: [wachira]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: paper4
+#  title: "Contributed Paper 4: Increasing agricultural productivity in Africa using a
+#discriminative deep learning model for farmland bird invasion identification and prevention system - Halleluyah Oluwatobi Aworinde"
+#  subtype: presentation
+#  speakers: [Halleluyah]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: paper5
+#  title: "Contributed Paper 5: A deep learning-based detector for Brown Spot Disease in passion fruit plants - Andrew Katumba"
+#  subtype: presentation
+#  speakers: [katumba]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: paper6
+#  title: "Contributed Paper 6: Student Counseling Chatbot - Tesfay Gebremeskel"
+#  subtype: presentation
+#  speakers: [Gebremeskel]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: paper7
+#  title: "Contributed Paper 7: Internet of Things Based Mobile Application for Environmental Conditions Monitoring in Poultry House with Machine Learning Algorithms - Beston Lufyagila"
+#  subtype: presentation
+#  speakers: [beston]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: paper8
+#  title: "Contributed Paper 8: Artificial Intelligent E-extension Unmanned Aerial Vehicle (UAV) for Local Farmers - Adebayo Segun"
+#  subtype: presentation
+#  speakers: [adebayo]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: paper9
+#  title: "Contributed Paper 9: Polarity and Similarity Measures Towards Classifying Articles on Food Insecurity - Andrew Lukyamuzi"
+#  subtype: presentation
+#  speakers: [andrew]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: paper10
+#  title: "Contributed Paper 10: Geometry and Topology in Epidemiology Tracking - Colleen Farrelly"
+#  subtype: presentation
+#  speakers: [colleen]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: panel_agriculture_ai
+#  title: "Panel Discussion: AI for Agriculture, Food Production & Biodiversity"
+#  subtype: presentation
+#  speakers: [dina,ernest,ciira,jason]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: beatrice_talk
+#  title: "Data science opportunities in Health in Africa"
+#  subtype: presentation
+#  speakers: [beatrice]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: fb_hackathon
+#  title: "Facebook Hackathon Announcement"
+#  subtype: presentation
+#  speakers: [chimdi]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#
+#
+#########
+#- 
+#  id: keynote_hold
+#  title: "Keynote"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: panel_hold
+#  title: "Panel Discussion"
+#  subtype: presentation
+#  speakers: [dummy,dummy,dummy]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: day_wrap
+#  title: "Wrap up"
+#  subtype: presentation
+#  speakers: [joyce,martin,engineer]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#- 
+#  id: papers
+#  title: "Multiple submitted talks"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: "tbd"
+#
+#
+#
+-
+  id: blank
+  title: "TBD"
+  description: ""
+  subtype: presentation
+  speakers: [gaba]
+
+
