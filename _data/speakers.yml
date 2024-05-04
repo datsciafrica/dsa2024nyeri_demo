@@ -134,19 +134,19 @@ Chair", url: "https://datascienceafrica.org"}
 #  title: "Post Doc"
 #  bio: ""
 #  thumbnailUrl: mike.jpg
-#-
-#  id: joyce
-#  name: "Joyce"
-#  surname: "Nabende"
-#  company: "Makerere University"
-#  title: "Lecturer & Head of AI Lab"
-#  thumbnailUrl: joyce.jpg
-#  bio: ""
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/j_nabende"}
-#    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
-#  ribbon:
-#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: joyce
+  name: "Joyce"
+  surname: "Nabende"
+  company: "Makerere University"
+  title: "Lecturer & Head of AI Lab"
+  thumbnailUrl: joyce.jpg
+  bio: ""
+  social:
+    - {name: "twitter", link: "https://twitter.com/j_nabende"}
+    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: morine
   name: "Morine"
@@ -173,15 +173,15 @@ Chair", url: "https://datascienceafrica.org"}
 #  ribbon:
 #    - {abbr: "FWC", title: "Field Work Chair", url: "https://datascienceafrica.org"}
 #
-#-
-#  id: claire
-#  name: "Claire"
-#  surname: "Babirye"
-#  title: "Lecturer"
-#  company: "UTAMU"
-#  thumbnailUrl: claire2.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
+-
+  id: claire
+  name: "Claire"
+  surname: "Babirye"
+  title: "Lecturer"
+  company: "UTAMU"
+  thumbnailUrl: claire2.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
 #-
 #  id: benakera
 #  name: "Benjamin"
@@ -220,15 +220,15 @@ Chair", url: "https://datascienceafrica.org"}
   thumbnailUrl: andrei_paleyes.png
   social:
     - {name: "site", link: "https://www.linkedin.com/in/andreipaleyes?originalSubdomain=uk"}
-#-
-#  id: charles
-#  name: "Charles"
-#  surname: "Saidu"
-#  title: "PhD Candidate"
-#  company: "African University of Science & Technology, Abuja"
-#  thumbnailUrl: charles.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/charlesity"}
+-
+  id: charles
+  name: "Charles"
+  surname: "Saidu"
+  title: "PhD Candidate"
+  company: "African University of Science & Technology, Abuja"
+  thumbnailUrl: charles.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/charlesity"}
 #-
 #  id: melese
 #  name: "Michael"
@@ -1078,12 +1078,12 @@ Chair", url: "https://datascienceafrica.org"}
   thumbnailUrl: CharlesMwangi.jpg
 -
   id: rep_university_of_rwanda
-  name: "Didas"
-  surname: "Kayihura Muganga"
-  company: "University of Rwanda"
+  name: ""
+  surname: "TBD"
+  company: "Dedani Kimathi University of Technology "
   title: "A.g Vice Chancellor"
   bio: ""
-  thumbnailUrl: arton88.jpg
+  thumbnailUrl: person.jpg
 #-
 #  id: rep_DSA
 #  name: "Representative of"
@@ -1123,4 +1123,29 @@ Chair", url: "https://datascienceafrica.org"}
 #  company: "TBD"
 #  title: "TBD"
 #  bio: ""
-#  thumbnailUrl: person.jpg 
+#  thumbnailUrl: person.jpg  Valentine Nlebedim
+-
+  id: issa
+  name: "Issa"
+  surname: "Karambal"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg 
+-
+  id: mazumdar
+  name: "Suvodeep"
+  surname: "Mazumdar"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg 
+-
+  id: nlebedim
+  name: "Valentine"
+  surname: "Nlebedim"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg 
+

@@ -11,8 +11,8 @@
 
 # Summer school on 08th May 2023---------------------------
 -
-  date: "2023-05-08"
-  dateReadable: "May 08, 2023"
+  date: "2024-06-03"
+  dateReadable: "June 03, 2024"
   tracks:
     - {title: "Summer School", color: "#006991"}
     # - {title: "Field Work", color: "#000000"} program_overview
@@ -35,7 +35,7 @@
     - {
         startTime: "10:15",
         endTime: "11:15",
-        sessionIds: [r_programming, python_programming]
+        sessionIds: [introduction_to_math]
     }
     - {
      	startTime: "11:15",
@@ -45,7 +45,7 @@
     - {
     	startTime: "11:30",
     	endTime: "13:00",
-    	sessionIds: [linear_algebra, natural_language_processing]
+    	sessionIds: [introduction_to_math]
     }
     - {
      	startTime: "13:00",
@@ -55,7 +55,7 @@
     - {
         startTime: "14:00",
         endTime: "16:00",
-        sessionIds: [linear_algebra_lab, natural_language_processing_lab]
+        sessionIds: [data_visualisation]
     }
     - {
      	startTime: "16:00",
@@ -65,7 +65,7 @@
     - {
     	startTime: "16:30",
     	endTime: "18:00",
-    	sessionIds: [regression_analysis, computer_vision]
+    	sessionIds: [statistical_learning]
     }
     
 # Summer school on 9th May 2023------------------------------------------------------------

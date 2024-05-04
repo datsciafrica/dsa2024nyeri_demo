@@ -9,3 +9,12 @@ safe: false
 future: true
 baseurl: "/dsa2024nyeri_demo"
 url: "http://www.datascienceafrica.org"
+title: "Data Science Africa Nyeri 2024"
+email: "info@datascienceafrica.org"
+description: "DSA 2024, NYERI"
+googleAnalyticsTrackingId: "UA-80484960-1"
+googleAnalyticsSiteUrl: "datascienceafrica.org"
+venuName: "Dedan Kimathi University of Technology, Nyeri"
+venuLogo: "University-of-Rwanda-LOGO-B-_RV.png"
+sitetheme: "GeoAI4Good: Harnessing the Transformative Power of AI Foundation Models for Earth Observation for Environmental Monitoring"
+dates: "3<sup>rd</sup> - 7<sup>th</sup> June 2024"

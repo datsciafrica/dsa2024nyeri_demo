@@ -65,7 +65,7 @@
   title: "Introductions"
   description: "Introductions"
   subtype: presentation
-  speakers: [ruranga]
+  speakers: [ciira]
   language: en
   complexity: "Beginner"
 -
@@ -73,7 +73,7 @@
   title: "Program Overview"
   description: "Program Overview"
   subtype: presentation
-  speakers: [ciira]
+  speakers: [elaine,joyce,charles]
   language: en
   complexity: "Beginner"
 -
@@ -85,29 +85,29 @@
   language: en
   complexity: "Beginner"
 -
-  id: r_programming
-  title: "DS Track - R Programming"
-  description: "DS Track - R Programming"
+  id: introduction_to_math
+  title: "Introduction to Math for AI and Optimization"
+  description: "Introduction to Math for AI and Optimization"
   subtype: presentation
-  speakers: [mwangi]
+  speakers: [issa]
   language: en
   complexity: "Beginner"
   presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
 -
-  id: python_programming
-  title: "AI Track - Python Programming"
-  description: "AI Track - Python Programming"
+  id: data_visualisation
+  title: "Data visualisation"
+  description: "Data visualisation"
   subtype: presentation
-  speakers: [batamuliza]
+  speakers: [mazumdar,claire]
   language: en
   complexity: "Intermediate"
   presentation: "https://drive.google.com/drive/folders/14b_46Nnl4tJHCGN7Q6-BUd3PnQqhUS1H?usp=share_link"
 -
-  id: linear_algebra
-  title: "DS Track - Linear Algebra"
-  description: "DS Track - Linear Algebra"
+  id: statistical_learning
+  title: "Statistical Learning"
+  description: "Statistical Learning"
   subtype: presentation
-  speakers: [ruganzu]
+  speakers: [nlebedim]
   language: en
   complexity: "Intermediate"
   presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
