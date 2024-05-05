@@ -60,6 +60,7 @@
 #  speakers: []
 #  language: en
 #  complexity: "Beginner"
+#------------------------------ Summer School Schedule Monday 03/06/2024-------------------------------
 -
   id: introductions
   title: "Introductions"
@@ -81,7 +82,7 @@
   title: "Opening Remarks"
   description: "Opening Remarks"
   subtype: presentation
-  speakers: [rep_university_of_rwanda]
+  speakers: [rep_dedani_kimathi]
   language: en
   complexity: "Beginner"
 -
@@ -94,14 +95,14 @@
   complexity: "Beginner"
   presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
 -
-  id: data_visualisation
-  title: "Data visualisation"
-  description: "Data visualisation"
+  id: open_source_LLMs
+  title: "Open Source LLMs to production"
+  description: "Open Source LLMs to production"
   subtype: presentation
-  speakers: [mazumdar,claire]
+  speakers: [meta]
   language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/drive/folders/14b_46Nnl4tJHCGN7Q6-BUd3PnQqhUS1H?usp=share_link"
+  complexity: "Beginner"
+  presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
 -
   id: statistical_learning
   title: "Statistical Learning"
@@ -112,68 +113,86 @@
   complexity: "Intermediate"
   presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
 -
-  id: natural_language_processing
-  title: "AI Track - Natural Language Processing"
-  description: "AI Track - Natural Language Processing"
+  id: GeoAI4Good
+  title: "Harnessing the Transformative Power of AI Foundation Models for Earth Observation for Environmental Monitoring"
+  description: "Harnessing the Transformative Power of AI Foundation Models for Earth Observation for Environmental Monitoring"
   subtype: presentation
-  speakers: [kipkebut]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/drive/folders/1j_WC8p48-a0rgWfhPX1UeX9ngv6HYZam?usp=share_link"
--
-  id: linear_algebra_lab
-  title: "DS Track - Linear Algebra Lab"
-  description: "DS Track - Linear Algebra Lab"
-  subtype: presentation
-  speakers: [ruganzu]
+  speakers: [nlebedim]
   language: en
   complexity: "Intermediate"
   presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
 -
-  id: natural_language_processing_lab
-  title: "AI Track - Natural Language Processing"
-  description: "AI Track - Natural Language Processing"
+  id: data_visualisation
+  title: "Data visualisation"
+  description: "Data visualisation"
   subtype: presentation
-  speakers: [kipkebut]
+  speakers: [mazumdar,claire]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/14b_46Nnl4tJHCGN7Q6-BUd3PnQqhUS1H?usp=share_link"
+-
+  id: deep_generative_AI
+  title: "Deep Generative AI"
+  description: "Deep Generative AI"
+  subtype: presentation
+  speakers: [dauwels]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/1j_WC8p48-a0rgWfhPX1UeX9ngv6HYZam?usp=share_link"
+-
+  id: ML_remote_sensing
+  title: "Machine Learning for Remote Sensing"
+  description: "Machine Learning for Remote Sensing"
+  subtype: presentation
+  speakers: [kerner]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
+-
+  id: computer_vision
+  title: "Computer Vision"
+  description: "Computer Vision"
+  subtype: presentation
+  speakers: [katumba, lorna]
   language: en
   complexity: "Intermediate"
   presentation: "https://drive.google.com/drive/folders/1j_WC8p48-a0rgWfhPX1UeX9ngv6HYZam?usp=share_link" 
 -
-  id: regression_analysis
-  title: "DS Track - Regression Analysis "
-  description: "DS Track - Regression Analysis "
+  id: NLP_and_LLMs
+  title: "NLP and LLMs"
+  description: "NLP and LLMs"
   subtype: presentation
-  speakers: [mwangi]
+  speakers: [andreas]
   language: en
   complexity: "Intermediate"
   presentation: "https://drive.google.com/drive/folders/1KfXY10sc1P5_0949behaLhoAr_jJ1oTw?usp=share_link" 
 -
-  id: computer_vision
-  title: "AI Track -  Computer Vision"
-  description: "AI Track -  Computer Vision"
+  id: hackathon 
+  title: "Hackathon - PhysioNet Challenge"
+  description: "Hackathon - PhysioNet Challenge"
   subtype: presentation
-  speakers: [katumba]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
-  presentation: "https://drive.google.com/drive/folders/1xdgaeHxt_xl4qTQL_yHQr43ZbYVoozC1?usp=share_link" 
+#  presentation: "https://drive.google.com/drive/folders/1xdgaeHxt_xl4qTQL_yHQr43ZbYVoozC1?usp=share_link" 
 # Summer School Day 2----------------------------------------------------------------------
 
 
 -
-  id: regression_analysis_lab
-  title: "DS Track - Regression Analysis Lab"
-  description: "DS Track - Regression Analysis Lab"
+  id: ML_Ops
+  title: "ML Ops"
+  description: "ML Ops"
   subtype: presentation
-  speakers: [mwangi]
+  speakers: [andrei]
   language: en
   complexity: "Intermediate"
   presentation: "https://drive.google.com/drive/folders/1KfXY10sc1P5_0949behaLhoAr_jJ1oTw?usp=share_link"
 -
-  id: computer_vision_lab
-  title: "AI Track - Computer Vision Lab"
-  description: "AI Track - Computer Vision Lab"
+  id: field_work
+  title: "Field work"
+  description: "Field work"
   subtype: presentation
-  speakers: [katumba]
+  speakers: [Edge_Impluse]
   language: en
   complexity: "Intermediate"
   presentation: "https://drive.google.com/drive/folders/1xdgaeHxt_xl4qTQL_yHQr43ZbYVoozC1?usp=share_link"

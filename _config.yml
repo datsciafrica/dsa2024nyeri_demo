@@ -18,3 +18,7 @@ venuName: "Dedan Kimathi University of Technology, Nyeri"
 venuLogo: "University-of-Rwanda-LOGO-B-_RV.png"
 sitetheme: "GeoAI4Good: Harnessing the Transformative Power of AI Foundation Models for Earth Observation for Environmental Monitoring"
 dates: "3<sup>rd</sup> - 7<sup>th</sup> June 2024"
+
+
+# Speakers List Block
+showSessions: true

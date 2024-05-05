@@ -9,16 +9,16 @@
 ##    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
 #  ribbon:
 #    - {abbr: "GC", title: "General Chair", url: "https://datascienceafrica.org"}
--
-  id: thiga
-  name: "Moses"
-  surname: "Thiga"
-  title: "Lecturer"
-  company: "Kabarak University, Kenya"
-  thumbnailUrl: DrMosesMThiga.jpg
-  ribbon:
-    - {abbr: "PC", title: "DSA 2023 Program
-Chair", url: "https://datascienceafrica.org"}
+#-
+#  id: thiga
+#  name: "Moses"
+#  surname: "Thiga"
+#  title: "Lecturer"
+#  company: "Kabarak University, Kenya"
+#  thumbnailUrl: DrMosesMThiga.jpg
+#  ribbon:
+#    - {abbr: "PC", title: "DSA 2023 Program
+#Chair", url: "https://datascienceafrica.org"}
 -
   id: ciira
   name: "Ciira"
@@ -26,7 +26,7 @@ Chair", url: "https://datascienceafrica.org"}
   company: "Dedan Kimathi University of Technology"
   title: "Senior Lecturer and Director, Center for Data Science and AI"
   bio: ""
-  thumbnailUrl: ciira.jpg
+  thumbnailUrl: ciira.jpeg
   social:
     - {name: "twitter", link: "https://twitter.com/CwaMaina"}
     - {name: "site", link: "http://ciirawamaina.com/"}
@@ -45,18 +45,18 @@ Chair", url: "https://datascienceafrica.org"}
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
     - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
--
-  id: ernest
-  name: "Ernest"
-  surname: "Mwebabze"
-  company: "Sunbird AI"
-  title: "Director"
-  bio: ""
-  thumbnailUrl: earnest.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/earnest"}
-  ribbon:
-    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+#-
+#  id: ernest
+#  name: "Ernest"
+#  surname: "Mwebabze"
+#  company: "Sunbird AI"
+#  title: "Director"
+#  bio: ""
+#  thumbnailUrl: earnest.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/earnest"}
+#  ribbon:
+#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: elaine
   name: "Elaine"
@@ -64,24 +64,24 @@ Chair", url: "https://datascienceafrica.org"}
   company: "Boston University"
   title: "Assistant Professor"
   bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
-  thumbnailUrl: elaine_nsoesie.png
+  thumbnailUrl: Elaine-Nsoesie.png
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
--
-  id: billy
-  name: "Billy"
-  surname: "Okal"
-  company: "NVIDIA"
-  title: "Senior Research Engineer"
-  bio: ""
-  thumbnailUrl: billy_okal.png
-  ribbon:
-    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
-    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/jadalawa"}
+#-
+#  id: billy
+#  name: "Billy"
+#  surname: "Okal"
+#  company: "NVIDIA"
+#  title: "Senior Research Engineer"
+#  bio: ""
+#  thumbnailUrl: billy_okal.png
+#  ribbon:
+#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+#    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/jadalawa"}
 #-
 #  id: damon
 #  name: "Damon"
@@ -104,28 +104,28 @@ Chair", url: "https://datascienceafrica.org"}
 #  social:
 #    - {name: "twitter", link: "https://twitter.com/nakadori"}
 #
--
-  id: neil
-  name: "Neil"
-  surname: "Lawrence"
-  company: "University of Cambridge"
-  title: "Professor"
-  bio: "DeepMind Professor of Machine Learning at the University of Cambridge"
-  thumbnailUrl: neil.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/lawrend"}
-  ribbon:
-    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
--
-  id: johnquinn
-  name: "John"
-  surname: "Quinn"
-  company: "Google AI"
-  title: "Research Scientist"
-  bio: ""
-  thumbnailUrl: johnquinn.jpg
-  ribbon:
-    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+#-
+#  id: neil
+#  name: "Neil"
+#  surname: "Lawrence"
+#  company: "University of Cambridge"
+#  title: "Professor"
+#  bio: "DeepMind Professor of Machine Learning at the University of Cambridge"
+#  thumbnailUrl: neil.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/lawrend"}
+#  ribbon:
+#    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+#-
+#  id: johnquinn
+#  name: "John"
+#  surname: "Quinn"
+#  company: "Google AI"
+#  title: "Research Scientist"
+#  bio: ""
+#  thumbnailUrl: johnquinn.jpg
+#  ribbon:
+#    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 #-
 #  id: mikesmith
 #  name: "Mike"
@@ -191,16 +191,16 @@ Chair", url: "https://datascienceafrica.org"}
 #  thumbnailUrl: Akera.jpg
 #  social:
 #    - {name: "twitter", link: "https://twitter.com/benjaminakera"}
-#-
-#  id: andreas
-#  name: "Andreas"
-#  surname: "Damianou"
-#  title: "Senior Machine Learning Scientist "
-#  company: "Amazon"
-#  thumbnailUrl: andreas.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/adamianou"}
-#    - {name: "site", link: "http://adamian.github.io"}
+-
+  id: andreas
+  name: "Andreas"
+  surname: "Damianou"
+  title: "Senior Machine Learning Scientist "
+  company: "Amazon"
+  thumbnailUrl: andreas.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/adamianou"}
+    - {name: "site", link: "http://adamian.github.io"}
 #-
 #  id: berens
 #  name: "Philipp"
@@ -518,13 +518,13 @@ Chair", url: "https://datascienceafrica.org"}
 #  title: "ABSA UP Chair of Data Science"
 #  company: "University of Pretoria"
 #  thumbnailUrl: vukosi_marivate.jpg 
-#-
-#  id: lorna
-#  name: "Lorna"
-#  surname: "Mugambi"
-#  title: "Research intern"
-#  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
-#  thumbnailUrl: LornaMugambi.jpg
+-
+  id: lorna
+  name: "Lorna"
+  surname: "Mugambi"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: LornaMugambi.png
 #-
 #  id: gabriel
 #  name: "Gabriel"
@@ -770,16 +770,16 @@ Chair", url: "https://datascienceafrica.org"}
 #  title: "TBD"
 #  company: "SEACOM"
 #  thumbnailUrl: NoahMaina.jpeg
--
-  id: feng
-  name: "Alice"
-  surname: "Feng"
-  title: "TBD"
-  company: "Axios"
-  bio: "Alice Feng is a data visualization developer based in the Washington, DC area. She is passionate about using design to make data and information more accessible to broader audiences and recently has been exploring ways to bring more diversity, equity, and inclusion into the way we visualize data. Alice is currently making charts and maps for the United Nations Development Programme. "
-  social:
-    - {name: "twitter", link: "https://twitter.com/fleecealeece"}
-  thumbnailUrl: alice_feng.png
+#-
+#  id: feng
+#  name: "Alice"
+#  surname: "Feng"
+#  title: "TBD"
+#  company: "Axios"
+#  bio: "Alice Feng is a data visualization developer based in the Washington, DC area. She is passionate about using design to make data and information more accessible to broader audiences and recently has been exploring ways to bring more diversity, equity, and inclusion into the way we visualize data. Alice is currently making charts and maps for the United Nations Development Programme. "
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/fleecealeece"}
+#  thumbnailUrl: alice_feng.png
 #-
 #  id: mugaga
 #  name: "Pius"
@@ -876,13 +876,13 @@ Chair", url: "https://datascienceafrica.org"}
 #  title: "Zindi Ambassador"
 #  company: "Zindi"
 #  thumbnailUrl: person.jpg
--
-  id: christian
-  name: "Cabrera-Jojoa"
-  surname: "Christian"
-  title: "Lecturer"
-  company: "University of Cambridge"
-  thumbnailUrl: ChristianHumberto.jpeg
+#-
+#  id: christian
+#  name: "Cabrera-Jojoa"
+#  surname: "Christian"
+#  title: "Lecturer"
+#  company: "University of Cambridge"
+#  thumbnailUrl: ChristianHumberto.jpeg
 #-
 #  id: patel
 #  name: "Patel"
@@ -988,96 +988,96 @@ Chair", url: "https://datascienceafrica.org"}
   title: "TBD"
   bio: ""
   thumbnailUrl: andrew_katumba.png
+#-
+#  id: kouanou
+#  name: "Aurelle"
+#  surname: "Kouanou Tchagna"
+#  company: "AIMS Cameroon"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: AurelleTchagna.jpg
+#-
+#  id: kemme
+#  name: "Jodelle"
+#  surname: "Kemme"
+#  company: "Ishango Data Science Fellow"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: AurelieJodelleKemme.jpg
+#-
+#  id: kiptoo
+#  name: "Daisy"
+#  surname: "Kiptoo"
+#  company: "Kabarak University"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: daisy_kiptoo.png
+#-
+#  id: Jongboom
+#  name: "Jan"
+#  surname: "Jongboom"
+#  company: "Edge Impulse"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: JanJongboom.jpg
+#-
+#  id: kipkebut
+#  name: "Andrew"
+#  surname: "Kipkebut"
+#  company: "Kabarak University"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: AndrewKipkebut.jpg
+#-
+#  id: ngaruye
+#  name: "Innocent"
+#  surname: "Ngaruye"
+#  company: "University of Rwanda"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: innocent_ngaruye.png
+#-
+#  id: batamuliza
+#  name: "Jennifer"
+#  surname: "Batamuliza"
+#  company: "University of Rwanda"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: jennifer_batamuliza.png
+#-
+#  id: kimeto
+#  name: "Pamela"
+#  surname: "Kimeto"
+#  company: "Kabarak University"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: Pamela_Kimeto.jpg
+#-
+#  id: ruganzu
+#  name: "Leon"
+#  surname: "Ruganzu"
+#  company: "University of Rwanda"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: ruganzu_leon.png
+#-
+#  id: gaba
+#  name: "Yaé Ulrich"
+#  surname: "Gaba"
+#  company: "Quantum Leap Africa"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: Dr_YUGaba.PNG
+#-
+#  id: mwangi
+#  name: "Charles"
+#  surname: "Mwangi"
+#  company: "Kabarak University"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: CharlesMwangi.jpg
 -
-  id: kouanou
-  name: "Aurelle"
-  surname: "Kouanou Tchagna"
-  company: "AIMS Cameroon"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: AurelleTchagna.jpg
--
-  id: kemme
-  name: "Jodelle"
-  surname: "Kemme"
-  company: "Ishango Data Science Fellow"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: AurelieJodelleKemme.jpg
--
-  id: kiptoo
-  name: "Daisy"
-  surname: "Kiptoo"
-  company: "Kabarak University"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: daisy_kiptoo.png
--
-  id: Jongboom
-  name: "Jan"
-  surname: "Jongboom"
-  company: "Edge Impulse"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: JanJongboom.jpg
--
-  id: kipkebut
-  name: "Andrew"
-  surname: "Kipkebut"
-  company: "Kabarak University"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: AndrewKipkebut.jpg
--
-  id: ngaruye
-  name: "Innocent"
-  surname: "Ngaruye"
-  company: "University of Rwanda"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: innocent_ngaruye.png
--
-  id: batamuliza
-  name: "Jennifer"
-  surname: "Batamuliza"
-  company: "University of Rwanda"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: jennifer_batamuliza.png
--
-  id: kimeto
-  name: "Pamela"
-  surname: "Kimeto"
-  company: "Kabarak University"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: Pamela_Kimeto.jpg
--
-  id: ruganzu
-  name: "Leon"
-  surname: "Ruganzu"
-  company: "University of Rwanda"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: ruganzu_leon.png
--
-  id: gaba
-  name: "Yaé Ulrich"
-  surname: "Gaba"
-  company: "Quantum Leap Africa"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: Dr_YUGaba.PNG
--
-  id: mwangi
-  name: "Charles"
-  surname: "Mwangi"
-  company: "Kabarak University"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: CharlesMwangi.jpg
--
-  id: rep_university_of_rwanda
+  id: rep_dedani_kimathi
   name: ""
   surname: "TBD"
   company: "Dedani Kimathi University of Technology "
@@ -1092,38 +1092,38 @@ Chair", url: "https://datascienceafrica.org"}
 #  title: "TBD"
 #  bio: ""
 #  thumbnailUrl: person.jpg 
--
-  id: ed_shee
-  name: "Ed"
-  surname: "Shee"
-  company: "seldon.io"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: Ed_Shee.png 
--
-  id: ruranga
-  name: "Charles"
-  surname: "Ruranga"
-  company: "University of Rwanda"
-  title: "TBD,"
-  bio: ""
-  thumbnailUrl: CharlesRuranga.jpg 
--
-  id: osei
-  name: "Prince"
-  surname: "Osei"
-  company: "Quantum Leap Africa(QLA)"
-  title: "Lead Scientist &amp; Director,"
-  bio: ""
-  thumbnailUrl: Osei.jpeg 
 #-
-#  id: dummy
-#  name: "TBD"
-#  surname: ""
-#  company: "TBD"
+#  id: ed_shee
+#  name: "Ed"
+#  surname: "Shee"
+#  company: "seldon.io"
 #  title: "TBD"
 #  bio: ""
-#  thumbnailUrl: person.jpg  Valentine Nlebedim
+#  thumbnailUrl: Ed_Shee.png 
+#-
+#  id: ruranga
+#  name: "Charles"
+#  surname: "Ruranga"
+#  company: "University of Rwanda"
+#  title: "TBD,"
+#  bio: ""
+#  thumbnailUrl: CharlesRuranga.jpg 
+#-
+#  id: osei
+#  name: "Prince"
+#  surname: "Osei"
+#  company: "Quantum Leap Africa(QLA)"
+#  title: "Lead Scientist &amp; Director,"
+#  bio: ""
+#  thumbnailUrl: Osei.jpeg 
+-
+  id: dummy
+  name: "TBD"
+  surname: ""
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
 -
   id: issa
   name: "Issa"
@@ -1148,4 +1148,38 @@ Chair", url: "https://datascienceafrica.org"}
   title: "TBD"
   bio: ""
   thumbnailUrl: person.jpg 
+-
+  id: dauwels
+  name: "Justin"
+  surname: "Dauwels"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: kerner
+  name: "Hannah"
+  surname: "Kerner"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: Edge_Impluse
+  name: "Edge"
+  surname: "Impluse"
+  company: "Edge Impluse"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: meta
+  name: "Meta"
+  surname: ""
+  company: "Meta"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+  
+  
 
