@@ -153,7 +153,7 @@
   surname: "Amutorine"
   title: "Data Associate"
   company: "UN Global Pulse, Kampala"
-  thumbnailUrl: Morine.jpg
+  thumbnailUrl: morine.jpg
   bio: "Morine is passionate about analysing, visualising and communicating data. Her work has been dominated by social data including social media data (conducting real-time content analysis and knowledge translation research), public radio (analysing public perceptions on topics that inform the work of the SDGs) and Google search data (to reveal knowledge gaps and detect disparities in health information availability). She particularly enjoys creating data-driven visuals to go with her research findings. She is currently a data associate at UN Global Pulse based in Kampala."
   social:
     - {name: "twitter", link: "https://twitter.com/theamutorine"}
