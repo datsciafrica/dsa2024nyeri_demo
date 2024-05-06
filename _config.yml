@@ -22,3 +22,11 @@ dates: "3<sup>rd</sup> - 7<sup>th</sup> June 2024"
 
 # Speakers List Block
 showSessions: true
+
+# Head
+metaKeywords: "event, data science, africa, dsa, programming, machine learning, developers"
+twitterAccount: "@dsa_org"
+
+# Documents
+c4pUrl: ""
+c4sponsorsUrl: "mailto:info@datascienceafrica.org?subject=Event%20Sponsorship%20for%20DSA%202024%20Nyeri"
