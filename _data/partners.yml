@@ -6,7 +6,7 @@
 #    - {name: "Habari Node", description: "Habari Node", link: "https://www.habari.co.tz/", imageUrl: "habari-node.png", width: "180px"}
 #    - {name: "Lacuna Fund", description: "Lacuna Fund", link: "https://lacunafund.org/", imageUrl: "lacuna-fund.png", width: "180px"}
     - {name: "Edge Impulse", description: "Edge Impulse", link: "https://www.edgeimpulse.com/", imageUrl: "edge-impulse-logo.png", width: "180px"}
-    - {name: "Google Deepmind", description: "Google Deepmind", link: "https://www.deepmind.com/", imageUrl: "GoldSponsors_Resized-01.png", width: "200px"}
+    - {name: "Google Deepmind", description: "Google Deepmind", link: "https://www.deepmind.com/", imageUrl: "GoldSponsors_Resized-01.jpg", width: "200px"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "GoldSponsors_Resized-08.png", width: "120px"}
     - {name: "kenet", description: "Kenya Education Network Trust", link: "https://www.kenet.or.ke/", imageUrl: "GoldSponsors_Resized-03.png", width: "180px"}
     - {name: "IDRC", description: "International Development Research Centre (IDRC)", link: "https://idrc-crdi.ca/en", imageUrl: "GoldSponsors_Resized-04.png", width: "180px"}
