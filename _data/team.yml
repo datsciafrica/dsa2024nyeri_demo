@@ -14,7 +14,7 @@
   name: "Ciira"
   surname: "Maina"
   title: "General Chair"
-  thumbnailUrl: Ciira.svg
+  thumbnailUrl: ciira.svg
   team: true
   social:
     - {name: "social-twitter", link: "https://twitter.com/CwaMaina"}
