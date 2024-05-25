@@ -9,7 +9,7 @@
     - {name: "Google Deepmind", description: "Google Deepmind", link: "https://www.deepmind.com/", imageUrl: "GoogleDeepmind.jpg", width: "200px"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "Google.jpg", width: "120px"}
     - {name: "kenet", description: "Kenya Education Network Trust", link: "https://www.kenet.or.ke/", imageUrl: "kenet.jpg", width: "180px"}
-    - {name: "IDRC", description: "International Development Research Centre (IDRC)", link: "https://idrc-crdi.ca/en", imageUrl: "IDRC.jpg", width: "180px"}
+    - {name: "IDRC", description: "International Development Research Centre (IDRC)", link: "https://idrc-crdi.ca/en", imageUrl: "IDRC.svg", width: "180px"}
     - {name: "AI4D", description: "Artificial Intelligence for Development", link: "https://africa.ai4d.ai/", imageUrl: "AI4D.jpg", width: "180px"}
     - {name: "GIZ", description: "GIZ", link: "https://lacunafund.org/", imageUrl: "GIZ.jpg", width: "180px"}
     - {name: "Fair Forward", description: "Fair Forward", link: "https://www.giz.de/expertise/html/61982.html", imageUrl: "fair_forward.jpg", width: "200px"}

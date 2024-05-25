@@ -26,7 +26,7 @@
   company: "Dedan Kimathi University of Technology"
   title: "Senior Lecturer and Director, Center for Data Science and AI"
   bio: ""
-  thumbnailUrl: Ciira.jpeg
+  thumbnailUrl: Ciira.svg
   social:
     - {name: "twitter", link: "https://twitter.com/CwaMaina"}
     - {name: "site", link: "http://ciirawamaina.com/"}
@@ -39,7 +39,7 @@
   company: "Lacuna Fund Steering Committee"
   title: "Member"
   bio: ""
-  thumbnailUrl: dina.jpg
+  thumbnailUrl: dina.svg
   social:
     - {name: "twitter", link: "https://twitter.com/dmachuve"}
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
@@ -64,7 +64,7 @@
   company: "Boston University"
   title: "Assistant Professor"
   bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
-  thumbnailUrl: Elaine-Nsoesie.png
+  thumbnailUrl: Elaine-Nsoesie.svg
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
   ribbon:
@@ -140,7 +140,7 @@
   surname: "Nabende"
   company: "Makerere University"
   title: "Lecturer & Head of AI Lab"
-  thumbnailUrl: joyce.jpg
+  thumbnailUrl: joyce.svg
   bio: ""
   social:
     - {name: "twitter", link: "https://twitter.com/j_nabende"}
@@ -153,7 +153,7 @@
   surname: "Amutorine"
   title: "Data Associate"
   company: "UN Global Pulse, Kampala"
-  thumbnailUrl: morine.jpg
+  thumbnailUrl: morine.svg
   bio: "Morine is passionate about analysing, visualising and communicating data. Her work has been dominated by social data including social media data (conducting real-time content analysis and knowledge translation research), public radio (analysing public perceptions on topics that inform the work of the SDGs) and Google search data (to reveal knowledge gaps and detect disparities in health information availability). She particularly enjoys creating data-driven visuals to go with her research findings. She is currently a data associate at UN Global Pulse based in Kampala."
   social:
     - {name: "twitter", link: "https://twitter.com/theamutorine"}
@@ -179,7 +179,7 @@
   surname: "Babirye"
   title: "Lecturer"
   company: "UTAMU"
-  thumbnailUrl: claire2.jpg
+  thumbnailUrl: claire2.svg
   social:
     - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
 #-
@@ -197,7 +197,7 @@
   surname: "Damianou"
   title: "Senior Machine Learning Scientist "
   company: "Amazon"
-  thumbnailUrl: andreas.jpg
+  thumbnailUrl: andreas.svg
   social:
     - {name: "twitter", link: "https://twitter.com/adamianou"}
     - {name: "site", link: "http://adamian.github.io"}
@@ -217,7 +217,7 @@
   surname: "Paleyes"
   title: "PhD Candidate"
   company: "University of Cambridge"
-  thumbnailUrl: andrei_paleyes.png
+  thumbnailUrl: andrei_paleyes.svg
   social:
     - {name: "site", link: "https://www.linkedin.com/in/andreipaleyes?originalSubdomain=uk"}
 -
@@ -226,7 +226,7 @@
   surname: "Saidu"
   title: "PhD Candidate"
   company: "African University of Science & Technology, Abuja"
-  thumbnailUrl: charles.jpg
+  thumbnailUrl: Charles-Saidu.svg
   social:
     - {name: "twitter", link: "https://twitter.com/charlesity"}
 #-
@@ -267,14 +267,14 @@
 #  surname: "Ntalla"
 #  title: ""
 #  company: "Facebook"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: kuldip
 #  name: "Kuldip"
 #  surname: "Bhathal"
 #  title: ""
 #  company: "Facebook"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: meissner
 #  name: "Eric"
@@ -351,7 +351,7 @@
 #  surname: "Allen"
 #  title: ""
 #  company: ""
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: rediet
 #  name: "Rediet"
@@ -485,7 +485,7 @@
 #  surname: "Alibedi"
 #  title: "TBC"
 #  company: "TBC"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: maria
 #  name: "Maria"
@@ -524,7 +524,7 @@
   surname: "Mugambi"
   title: "Research intern"
   company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
-  thumbnailUrl: LornaMugambi.png
+  thumbnailUrl: LornaMugambi.svg
 #-
 #  id: gabriel
 #  name: "Gabriel"
@@ -643,7 +643,7 @@
   surname: "Mubangizi"
   title: "Officer in Charge and Data Science Officer"
   company: "UN Global Pulse, Kampala"
-  thumbnailUrl: martin.png
+  thumbnailUrl: martin.svg
   social:
     - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
   ribbon:
@@ -654,7 +654,7 @@
 #  surname: "Mupuya"
 #  title: "Field Facilitator"
 #  company: "Digital Opportunity Trust"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #  social:
 #    - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
 #-
@@ -663,42 +663,42 @@
 #  surname: "Sefala"
 #  title: "TBD"
 #  company: "TBD"
-#  thumbnailUrl: person.jpg 
+#  thumbnailUrl: person.svg 
 #-
 #  id: mohamed
 #  name: "Mohamed"
 #  surname: "Ahmed"
 #  title: "TBD"
 #  company: "TBD"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: tabaro
 #  name: "Tabaro"
 #  surname: "Kabanda"
 #  title: "TBD"
 #  company: "TBD"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: vernon
 #  name: "Vernon"
 #  surname: "Kok"
 #  title: "SPU team"
 #  company: "Sol Plaatje University (SPU)"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: collins
 #  name: "Collins"
 #  surname: "Udanor"
 #  title: "Data Science Specialist"
 #  company: "University of Nigeria Nsukka"
-#  thumbnailUrl: person.jpg 
+#  thumbnailUrl: person.svg 
 #-
 #  id: rabson
 #  name: "Rabson"
 #  surname: "Sayenda"
 #  title: "Chancellor College"
 #  company: "University of Malawi"
-#  thumbnailUrl: person.jpg Prof Epaphra Manamba Deputy Rector -Academic Research and Consultancy, IAA
+#  thumbnailUrl: person.svg Prof Epaphra Manamba Deputy Rector -Academic Research and Consultancy, IAA
 #-
 #  id: epaphra
 #  name: "Prof Epaphra"
@@ -875,7 +875,7 @@
 #  surname: "David"
 #  title: "Zindi Ambassador"
 #  company: "Zindi"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: christian
 #  name: "Cabrera-Jojoa"
@@ -897,7 +897,7 @@
 #  surname: "Msolla"
 #  title: "Head of Informatics Department"
 #  company: "IAA"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: ryakitimbo
 #  name: "Rebecca"
@@ -905,7 +905,7 @@
 #  company: "Mozilla"
 #  title: "Common Voice Fellow at Mozilla"
 #  bio: ""
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: facebook
 #  name: "Facebook"
@@ -913,7 +913,7 @@
 #  company: "Facebook"
 #  title: "TBD"
 #  bio: ""
-#  thumbnailUrl: person.jpg 
+#  thumbnailUrl: person.svg 
 #-
 #  id: gaba
 #  name: "Yaé Ulrich"
@@ -921,49 +921,49 @@
 #  company: "AIMS Rwanda"
 #  title: "TBD"
 #  bio: ""
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: adebayo
 #  name: "Segun"
 #  surname: "Adebayo"
 #  title: "TBD"
 #  company: "Bowen University"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: dsa
 #  name: "DSA"
 #  surname: ""
 #  title: "TBC"
 #  company: "DSA"
-#  thumbnailUrl: person.jpg 
+#  thumbnailUrl: person.svg 
 #-
 #  id: masakhane
 #  name: "Masakhane"
 #  surname: ""
 #  title: "TBD"
 #  company: "Masakhane"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: damilare
 #  name: "Ms. Damilare"
 #  surname: "Ayonkule"
 #  title: "TBD"
 #  company: "Bowen University Iwo, Nigeria"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: halleluyah
 #  name: "Dr Halleluyah"
 #  surname: "Aworinde"
 #  title: "TBD"
 #  company: "Bowen University Iwo, Nigeria"
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: pcgc
 #  name: "PCs and GC"
 #  surname: ""
 #  title: "TBD"
 #  company: ""
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: nssf
 #  name: "Alvin"
@@ -971,7 +971,7 @@
 #  company: "NSSF, Uganda"
 #  title: "TBD"
 #  bio: ""
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.svg
 #-
 #  id: googleAI
 #  name: "Google"
@@ -979,7 +979,7 @@
 #  company: "Google AI, Ghana"
 #  title: "TBD"
 #  bio: ""
-#  thumbnailUrl: person.jpg 
+#  thumbnailUrl: person.svg 
 -
   id: katumba
   name: "Andrew"
@@ -987,7 +987,7 @@
   company: "Makerere University"
   title: "TBD"
   bio: ""
-  thumbnailUrl: andrew_katumba.png
+  thumbnailUrl: andrew_katumba.svg
 #-
 #  id: kouanou
 #  name: "Aurelle"
@@ -1083,7 +1083,7 @@
   company: "Dedani Kimathi University of Technology "
   title: "A.g Vice Chancellor"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: person.svg
 #-
 #  id: rep_DSA
 #  name: "Representative of"
@@ -1091,7 +1091,7 @@
 #  company: "DSA"
 #  title: "TBD"
 #  bio: ""
-#  thumbnailUrl: person.jpg 
+#  thumbnailUrl: person.svg 
 #-
 #  id: ed_shee
 #  name: "Ed"
@@ -1123,7 +1123,7 @@
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: person.svg
 -
   id: issa
   name: "Issa"
@@ -1131,7 +1131,7 @@
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg 
+  thumbnailUrl: person.svg 
 -
   id: mazumdar
   name: "Suvodeep"
@@ -1139,7 +1139,7 @@
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg 
+  thumbnailUrl: person.svg 
 -
   id: nlebedim
   name: "Valentine"
@@ -1147,7 +1147,7 @@
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg 
+  thumbnailUrl: person.svg 
 -
   id: dauwels
   name: "Justin"
@@ -1155,7 +1155,7 @@
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: person.svg
 -
   id: kerner
   name: "Hannah"
@@ -1163,7 +1163,7 @@
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: person.svg
 -
   id: Edge_Impluse
   name: "Edge"
@@ -1171,7 +1171,7 @@
   company: "Edge Impluse"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: person.svg
 -
   id: meta
   name: "Meta"
@@ -1179,7 +1179,7 @@
   company: "Meta"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: person.svg
   
   
 
