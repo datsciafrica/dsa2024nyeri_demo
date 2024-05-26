@@ -45,18 +45,18 @@
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
     - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
-#-
-#  id: ernest
-#  name: "Ernest"
-#  surname: "Mwebabze"
-#  company: "Sunbird AI"
-#  title: "Director"
-#  bio: ""
-#  thumbnailUrl: earnest.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/earnest"}
-#  ribbon:
-#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: ernest
+  name: "Ernest"
+  surname: "Mwebabze"
+  company: "Sunbird AI"
+  title: "Director"
+  bio: ""
+  thumbnailUrl: earnest.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/earnest"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: elaine
   name: "Elaine"
@@ -116,16 +116,16 @@
 #    - {name: "twitter", link: "https://twitter.com/lawrend"}
 #  ribbon:
 #    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
-#-
-#  id: johnquinn
-#  name: "John"
-#  surname: "Quinn"
-#  company: "Google AI"
-#  title: "Research Scientist"
-#  bio: ""
-#  thumbnailUrl: johnquinn.jpg
-#  ribbon:
-#    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+-
+  id: johnquinn
+  name: "John"
+  surname: "Quinn"
+  company: "Google AI"
+  title: "Research Scientist"
+  bio: ""
+  thumbnailUrl: johnquinn.svg
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 #-
 #  id: mikesmith
 #  name: "Mike"
@@ -1004,14 +1004,14 @@
 #  title: "TBD"
 #  bio: ""
 #  thumbnailUrl: AurelieJodelleKemme.jpg
-#-
-#  id: kiptoo
-#  name: "Daisy"
-#  surname: "Kiptoo"
-#  company: "Kabarak University"
-#  title: "TBD"
-#  bio: ""
-#  thumbnailUrl: daisy_kiptoo.png
+-
+  id: kiptoo
+  name: "Daisy"
+  surname: "Kiptoo"
+  company: "Kabarak University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: daisy_kiptoo.svg
 #-
 #  id: Jongboom
 #  name: "Jan"
@@ -1076,14 +1076,6 @@
 #  title: "TBD"
 #  bio: ""
 #  thumbnailUrl: CharlesMwangi.jpg
--
-  id: rep_dedani_kimathi
-  name: ""
-  surname: "TBD"
-  company: "Dedani Kimathi University of Technology "
-  title: "A.g Vice Chancellor"
-  bio: ""
-  thumbnailUrl: person.svg
 #-
 #  id: rep_DSA
 #  name: "Representative of"
@@ -1116,6 +1108,22 @@
 #  title: "Lead Scientist &amp; Director,"
 #  bio: ""
 #  thumbnailUrl: Osei.jpeg 
+#-
+#  id: rep_dedani_kimathi
+#  name: ""
+#  surname: "TBD"
+#  company: "Dedani Kimathi University of Technology "
+#  title: "A.g Vice Chancellor"
+#  bio: ""
+#  thumbnailUrl: person.svg
+-
+  id: issa
+  name: "Issa"
+  surname: "Karambal"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: issa.svg 
 -
   id: dummy
   name: "TBD"
@@ -1124,14 +1132,6 @@
   title: "TBD"
   bio: ""
   thumbnailUrl: person.svg
--
-  id: issa
-  name: "Issa"
-  surname: "Karambal"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg 
 -
   id: mazumdar
   name: "Suvodeep"
@@ -1173,13 +1173,111 @@
   bio: ""
   thumbnailUrl: person.svg
 -
-  id: meta
-  name: "Meta"
-  surname: ""
-  company: "Meta"
+  id: alessandro
+  name: "Alessandro "
+  surname: "Solbiati"
+  company: "TBD"
   title: "TBD"
   bio: ""
   thumbnailUrl: person.svg
-  
+-
+  id: thomas
+  name: "Thomas"
+  surname: "G. Dietterich"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: suvodeep
+  name: "Suvodeep"
+  surname: "Mazumdar"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: AminiAI
+  name: "AminiAI"
+  surname: ""
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: wanzare
+  name: "Lillian"
+  surname: "Wanzare"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg 
+-
+  id: olsson
+  name: "Sarah"
+  surname: "Olsson"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: baaijens
+  name: "Mathijs"
+  surname: "Baaijens"
+  company: "Edge AI"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg 
+-
+  id: lowe
+  name: "Ross"
+  surname: "Lowe"
+  company: "Edge AI"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: omino
+  name: "Melissa"
+  surname: "Omino"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg 
+-
+  id: muhawenayo
+  name: "Gedeon"
+  surname: "Muhawenayo"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: mbuvha
+  name: "Rendani"
+  surname: "Mbuvha"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: mutuku
+  name: "Leonida"
+  surname: "Mutuku"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: tum
+  name: "Jackline"
+  surname: "Tum"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+
+   
   
 

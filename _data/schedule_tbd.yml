@@ -17,35 +17,35 @@
     - {title: "Summer School", color: "#006991"}
     # - {title: "Field Work", color: "#000000"} program_overview
   timeslots:
+#    - {
+#    	startTime: "09:00",
+#    	endTime: "09:20",
+#    	sessionIds: [introductions]
+#    }
+#    - {
+#    	startTime: "09:20",
+#    	endTime: "09:40",
+#    	sessionIds: [program_overview]
+#    }
     - {
-    	startTime: "09:00",
-    	endTime: "09:20",
-    	sessionIds: [introductions]
-    }
-    - {
-    	startTime: "09:20",
-    	endTime: "09:40",
-    	sessionIds: [program_overview]
-    }
-    - {
-    	startTime: "09:40",
-    	endTime: "10:00",
+    	startTime: "08:30",
+    	endTime: "09:30",
     	sessionIds: [opening_remarks]
     }
     - {
-        startTime: "10:15",
-        endTime: "11:15",
-        sessionIds: [introduction_to_math]
+        startTime: "09:30",
+        endTime: "10:30",
+        sessionIds: [math_foundations_ML]
     }
     - {
-     	startTime: "11:15",
-     	endTime: "11:30",
+     	startTime: "10:30",
+     	endTime: "11:00",
      	sessionIds: [small-break]
      }
     - {
     	startTime: "11:30",
     	endTime: "13:00",
-    	sessionIds: [introduction_to_math, open_source_LLMs]
+    	sessionIds: [math_foundations_ML, open_source_LLMs, uncertainty_quantification]
     }
     - {
      	startTime: "13:00",
@@ -55,7 +55,7 @@
     - {
         startTime: "14:00",
         endTime: "16:00",
-        sessionIds: [statistical_learning,GeoAI4Good]
+        sessionIds: [data_visualisation, GeoAI4Good, NLP]
     }
     - {
      	startTime: "16:00",
@@ -65,7 +65,7 @@
     - {
     	startTime: "16:30",
     	endTime: "17:30",
-    	sessionIds: [data_visualisation]
+    	sessionIds: [data_visualisation_2, hackathon, NLP]
     }
     
 # Summer school on 4th June 2024------------------------------------------------------------
@@ -94,7 +94,7 @@
     - {
     	startTime: "11:00",
     	endTime: "13:00",
-    	sessionIds: [deep_generative_AI]
+    	sessionIds: [deep_generative_AI_lab, Edge_AI, IP_and_Data_Conundrum]
     }
     - {
      	startTime: "13:00",
@@ -104,7 +104,7 @@
     - {
         startTime: "14:00",
         endTime: "16:00",
-        sessionIds: [ML_remote_sensing, computer_vision]
+        sessionIds: [ML_remote_sensing, Automatic_Speech_Technology, Graphcast]
     }
     - {
      	startTime: "16:00",
@@ -114,7 +114,7 @@
     - {
     	startTime: "16:30",
     	endTime: "17:30",
-    	sessionIds: [ML_remote_sensing, computer_vision]
+    	sessionIds: [ML_remote_sensing_lab, Automatic_Speech_Technology_lab, Graphcast_lab]
     }
 -
   date: "2024-06-05"
@@ -126,7 +126,7 @@
     - {
         startTime: "09:00",
         endTime: "10:30",
-        sessionIds: [NLP_and_LLMs]
+        sessionIds: [NLP_and_LLMs, computer_vision_3, Hackathon_Challenge]
     }
     - {
     	startTime: "10:30",
@@ -135,13 +135,8 @@
     }
     - {
         startTime: "11:00",
-        endTime: "12:30",
-        sessionIds: [NLP_and_LLMs]
-    }
-    - {
-        startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [hackathon]
+        sessionIds: [NLP_and_LLMs_lab, computer_vision_3_lab, deep_learning]
     }
     - {
         startTime: "13:00",
@@ -151,8 +146,13 @@
     - {
         startTime: "14:00",
         endTime: "16:00",
-        sessionIds: [ML_Ops]
+        sessionIds: [ML_Ops_2, RAG_Agents, Edge_AI_Field_Work]
     }
+#    - {
+#        startTime: "14:00",
+#        endTime: "16:00",
+#        sessionIds: [ML_Ops]
+#    }
 #    - {
 #        startTime: "15:00",
 #        endTime: "16:00",
@@ -166,7 +166,7 @@
     - {
         startTime: "16:30",
         endTime: "17:30",
-        sessionIds: [field_work]
+        sessionIds: [Data_Science_for_Policy, RAG_Agents_lab, Edge_AI_Field_Work]
     }
 #    - {
 #        startTime: "17:00",
