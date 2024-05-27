@@ -104,18 +104,18 @@
 #  social:
 #    - {name: "twitter", link: "https://twitter.com/nakadori"}
 #
-#-
-#  id: neil
-#  name: "Neil"
-#  surname: "Lawrence"
-#  company: "University of Cambridge"
-#  title: "Professor"
-#  bio: "DeepMind Professor of Machine Learning at the University of Cambridge"
-#  thumbnailUrl: neil.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/lawrend"}
-#  ribbon:
-#    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+-
+  id: neil
+  name: "Neil"
+  surname: "Lawrence"
+  company: "University of Cambridge"
+  title: "Professor"
+  bio: "DeepMind Professor of Machine Learning at the University of Cambridge"
+  thumbnailUrl: neil.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/lawrend"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
   id: johnquinn
   name: "John"
@@ -602,13 +602,13 @@
 #  title: "Deputy Vice Chancellor (DVC)"
 #  company: "Sol Plaatje University (SPU)"
 #  thumbnailUrl: profMary.png 
-#-
-#  id: nakasi
-#  name: "Nakasi"
-#  surname: "Rose"
-#  title: "Research Assistant"
-#  company: "Makerere AI Lab"
-#  thumbnailUrl: rose.jpeg 
+-
+  id: nakasi
+  name: "Nakasi"
+  surname: "Rose"
+  title: "Research Assistant"
+  company: "Makerere AI Lab"
+  thumbnailUrl: rose.svg
 #-
 #  id: afua
 #  name: "Afua"
