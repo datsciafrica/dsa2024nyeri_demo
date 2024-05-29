@@ -7,7 +7,7 @@ autoprefixer:
 #    - Safari > 2
 safe: false
 future: true
-baseurl: "/dsa2024nyeri_demo"
+baseurl: "/dsa2024nyeri"
 url: "http://www.datascienceafrica.org"
 title: "Data Science Africa Nyeri 2024"
 email: "info@datascienceafrica.org"
