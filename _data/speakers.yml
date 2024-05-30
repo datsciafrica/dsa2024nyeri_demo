@@ -1155,7 +1155,7 @@
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.svg
+  thumbnailUrl: JustinDauwels.svg
 -
   id: kerner
   name: "Hannah"
@@ -1203,7 +1203,7 @@
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.svg 
+  thumbnailUrl: LilianWanzare.svg 
 -
   id: olsson
   name: "Sarah"
@@ -1211,7 +1211,7 @@
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.svg
+  thumbnailUrl: SaraOlsson.svg
 -
   id: baaijens
   name: "Mathijs"
@@ -1227,7 +1227,7 @@
   company: "Edge AI"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.svg  
+  thumbnailUrl: RossLowe.svg  
 -
   id: omino
   name: "Melissa"
