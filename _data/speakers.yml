@@ -15,7 +15,7 @@
 #  surname: "Thiga"
 #  title: "Lecturer"
 #  company: "Kabarak University, Kenya"
-#  thumbnailUrl: DrMosesMThiga.jpg
+#  thumbnailUrl: MosesThiga.svg
 #  ribbon:
 #    - {abbr: "PC", title: "DSA 2023 Program
 #Chair", url: "https://datascienceafrica.org"}
@@ -160,6 +160,16 @@
     - {name: "site", link: "http://site.com/"}
   ribbon:
     - {abbr: "DBA", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: thiga
+  name: "Moses"
+  surname: "Thiga"
+  title: "Lecturer"
+  company: "Kabarak University, Kenya"
+  thumbnailUrl: MosesThiga.svg
+  ribbon:
+    - {abbr: "PC", title: "DSA 2023 Program
+Chair", url: "https://datascienceafrica.org"}
 #-
 #  id: engineer
 #  name: "Engineer"
@@ -1152,7 +1162,7 @@
   id: dauwels
   name: "Justin"
   surname: "Dauwels"
-  company: "TBD"
+  company: "TU Delft"
   title: "TBD"
   bio: ""
   thumbnailUrl: JustinDauwels.svg
@@ -1184,8 +1194,8 @@
   id: thomas
   name: "Thomas"
   surname: "G. Dietterich"
-  company: "TBD"
-  title: "TBD"
+  title: "Professor (Emeritus)"
+  company: "Oregon State University"
   bio: ""
   thumbnailUrl: ThomasDietterich.svg
 -
@@ -1200,8 +1210,8 @@
   id: wanzare
   name: "Lillian"
   surname: "Wanzare"
-  company: "TBD"
-  title: "TBD"
+  company: "Maseno University"
+  title: "Lecturer"
   bio: ""
   thumbnailUrl: LilianWanzare.svg 
 -
@@ -1232,7 +1242,7 @@
   id: omino
   name: "Melissa"
   surname: "Omino"
-  company: "TBD"
+  company: "CIPIT, Strathmore University"
   title: "TBD"
   bio: ""
   thumbnailUrl: MelissaOmino.svg 

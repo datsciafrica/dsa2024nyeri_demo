@@ -386,7 +386,7 @@
   title: "Health (15 mins talks) [DS-I Africa Consortium, Artificial Intelligence for Efficient and Effective Radiological Workflows]"
   description: "Health (15 mins talks) [DS-I Africa Consortium, Artificial Intelligence for Efficient and Effective Radiological Workflows]"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [thiga]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -395,7 +395,7 @@
   title: "Speech-to-Speech Translation"
   description: "Speech-to-Speech Translation"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [ernest]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -440,7 +440,7 @@
   title: "Keynote: Dr. Lillian Wanzare, AI for KSL (Kenyan sign language + Student demo)"
   description: "Keynote: Dr. Lillian Wanzare, AI for KSL (Kenyan sign language + Student demo)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [wanzare]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -449,7 +449,7 @@
   title: "Panel: Big data for social good"
   description: "Panel: Big data for social good"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [martin]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -467,7 +467,7 @@
   title: "Geospatial and digital data  (15 mins talks)"
   description: "Geospatial and digital data  (15 mins talks)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [johnquinn]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -476,7 +476,7 @@
   title: "Plant diseases (15 mins talks)"
   description: "Plant diseases (15 mins talks)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [dina]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -485,7 +485,7 @@
   title: "Geospatial and digital data  (15 mins talks)"
   description: "Geospatial and digital data  (15 mins talks)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [johnquinn]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -494,7 +494,7 @@
   title: "Plant diseases (15 mins talks)"
   description: "Plant diseases (15 mins talks)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [dina]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -533,7 +533,7 @@
   title: "Health (15 mins talks)"
   description: "Health (15 mins talks)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [thiga]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -560,7 +560,7 @@
   title: "Pollution and Environment (15 mins talks and panel discussion)"
   description: "Pollution and Environment (15 mins talks and panel discussion)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [morine]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -587,7 +587,7 @@
   title: "Keynote: Prof. Thomas G. Dietterich"
   description: "Keynote: Prof. Thomas G. Dietterich"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [thomas]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -605,7 +605,7 @@
   title: "Language (15 mins talks)"
   description: "Language (15 mins talks)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [ernest]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -641,7 +641,7 @@
   title: "Plant Diseases (15 mins talks)"
   description: "Plant Diseases (15 mins talks)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [dina]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
