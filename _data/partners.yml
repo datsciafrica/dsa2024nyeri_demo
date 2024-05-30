@@ -32,7 +32,7 @@
     - {name: "DeKut", description: "Dedan Kimathi University of Technology", link: "https://www.dkut.ac.ke", imageUrl: "DeKut.jpg", width: "160px"}
     - {name: "GeJuSTA", description: "Gender Justice in STEM Research in Africa", link: "https://gejusta.net/", imageUrl: "GeJuSTA.jpg", width: "160px"}
     - {name: "IEEE Signal Processing Society", description: "IEEE Signal Processing Society", link: "https://signalprocessingsociety.org/", imageUrl: "IEEE_Signal_Processing_Society.jpg", width: "120px"}
-    - {name: "Pulse Lab Kampala", description: "Pulse Lab Kampala", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "unglobalpulse.jpg", width: "250px"}
+    - {name: "Pulse Lab Kampala", description: "Pulse Lab Kampala", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "globalpulse.jpg", width: "250px"}
     - {name: "PhysioNet", description: "IEEE Signal Processing Society", link: "https://physionet.org/", imageUrl: "PhysioNet.png", width: "120px"}
     - {name: "NM-AUST", description: "Nelson Mandela African Institution of Science and Technology", link: "https://www.nm-aist.ac.tz", imageUrl: "NM-AUST.jpg", width: "140px"}
     - {name: "MUK", description: "Makerere University", link: "https://www.mak.ac.ug", imageUrl: "Makerere.jpg", width: "140px"}
@@ -43,4 +43,4 @@
   group: "Affiliated Labs"
   elements:
     - {name: "AIR Lab", description: "Makerere - AI-LAB", link: "http://www.air.ug", imageUrl: "air.jpg", width: "120px"}
-    - {name: "DSAIL", description: "Data Systems and AI Lab", link: "https://dsail.csail.mit.edu/", imageUrl: "Dsail.jpg", width: "250px"}
+    - {name: "DSAIL", description: "Data Systems and AI Lab", link: "https://dsail.csail.mit.edu/", imageUrl: "DSAIL.jpg", width: "250px"}
