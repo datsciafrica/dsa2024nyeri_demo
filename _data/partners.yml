@@ -43,4 +43,4 @@
   group: "Affiliated Labs"
   elements:
     - {name: "AIR Lab", description: "Makerere - AI-LAB", link: "http://www.air.ug", imageUrl: "air.jpg", width: "120px"}
-    - {name: "DSAIL", description: "Data Systems and AI Lab", link: "https://dsail.csail.mit.edu/", imageUrl: "DSAIL.jpg", width: "250px"}
+    - {name: "DSAIL", description: "Data Systems and AI Lab", link: "https://dsail.csail.mit.edu/", imageUrl: "dsail.JPG", width: "250px"}
