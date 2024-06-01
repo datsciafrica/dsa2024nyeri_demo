@@ -270,7 +270,7 @@
     - {
         startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [Hackathon_11, Hackathon_12]
+        sessionIds: [Hackathon_11, Properties_Of_Tio2]
     }
     - {
         startTime: "13:00",
@@ -342,7 +342,7 @@
     - {
         startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [AI_for_finance, wheelchair_navigation]
+        sessionIds: [AI_for_finance, Tio2_And_Cdo]
     }
     - {
         startTime: "13:00",

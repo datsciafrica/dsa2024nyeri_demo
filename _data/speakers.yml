@@ -1278,6 +1278,14 @@ Chair", url: "https://datascienceafrica.org"}
   title: "TBD"
   bio: ""
   thumbnailUrl: person.svg
+-
+  id: muguro
+  name: "Joseph"
+  surname: "Muguro"
+  company: "Dedan Kimathi University of Technology"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
 
 
    

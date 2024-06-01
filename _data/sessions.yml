@@ -427,11 +427,11 @@
   complexity: "Beginner"
   presentation: ""
 -
-  id: Hackathon_12
-  title: "Comparison Investigation On The Material Properties Of Tio2 And Cdo And Zno"
-  description: "Comparison Investigation On The Material Properties Of Tio2 And Cdo And Zno"
+  id: Properties_Of_Tio2
+  title: "Machine Learning for Applications in Neurology & Psychiatry "
+  description: "Machine Learning for Applications in Neurology & Psychiatry "
   subtype: presentation
-  speakers: [dummy]
+  speakers: [muguro]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -574,9 +574,9 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: wheelchair_navigation
-  title: "Leveraging Machine Learning to Enhance the Reliability of Wheelchair Navigation with Hybrid EMG-EOG for PWDs"
-  description: "Leveraging Machine Learning to Enhance the Reliability of Wheelchair Navigation with Hybrid EMG-EOG for PWDs "
+  id: Tio2_And_Cdo
+  title: "Comparison Investigation On The Material Properties Of Tio2 And Cdo And Zno:Al:Ga Co-Doped Nanoparticles For Possible Solar Cell Applications "
+  description: "Comparison Investigation On The Material Properties Of Tio2 And Cdo And Zno:Al:Ga Co-Doped Nanoparticles For Possible Solar Cell Applications "
   subtype: presentation
   speakers: [dummy]
   language: en
