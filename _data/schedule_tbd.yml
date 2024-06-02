@@ -35,7 +35,7 @@
     - {
         startTime: "09:30",
         endTime: "10:30",
-        sessionIds: [math_foundations_ML]
+        sessionIds: [data_visualisation]
     }
     - {
      	startTime: "10:30",
@@ -45,7 +45,7 @@
     - {
     	startTime: "11:30",
     	endTime: "13:00",
-    	sessionIds: [math_foundations_ML, open_source_LLMs, uncertainty_quantification]
+    	sessionIds: [data_visualisation_2, open_source_LLMs, uncertainty_quantification]
     }
     - {
      	startTime: "13:00",
@@ -55,7 +55,7 @@
     - {
         startTime: "14:00",
         endTime: "16:00",
-        sessionIds: [data_visualisation, GeoAI4Good, NLP]
+        sessionIds: [math_foundations_ML, GeoAI4Good, NLP]
     }
     - {
      	startTime: "16:00",
@@ -65,7 +65,7 @@
     - {
     	startTime: "16:30",
     	endTime: "17:30",
-    	sessionIds: [data_visualisation_2, hackathon, NLP]
+    	sessionIds: [math_foundations_ML, hackathon, NLP]
     }
     
 # Summer school on 4th June 2024------------------------------------------------------------
