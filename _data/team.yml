@@ -24,7 +24,7 @@
   name: "Joyce"
   surname: "Nabende"
   title: "Program Chair"
-  thumbnailUrl: joyce.svg
+  thumbnailUrl: NabendeJoyce.svg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/j_nabende"}
@@ -36,7 +36,7 @@
   surname: "Nsoesie"
   company: "Boston University"
   title: "Program Chair"
-  thumbnailUrl: Elaine-Nsoesie.svg
+  thumbnailUrl: ElaineNsoesie.svg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
