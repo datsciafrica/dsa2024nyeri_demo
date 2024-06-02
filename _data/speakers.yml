@@ -205,9 +205,10 @@ Chair", url: "https://datascienceafrica.org"}
   id: andreas
   name: "Andreas"
   surname: "Damianou"
-  title: "Senior Machine Learning Scientist "
-  company: "Amazon"
+  title: "senior manager and research scientist"
+  company: "Spotify"
   thumbnailUrl: andreas.svg
+  bio: "I am a senior manager and research scientist at Spotify. I lead a research lab  on machine learning and information retrieval. More specifically, the focus is on representation learning at scale, including Graph ML and LLMs, to advance search and recommender systems. Before joining Spotify I was at Amazon."
   social:
     - {name: "twitter", link: "https://twitter.com/adamianou"}
     - {name: "site", link: "http://adamian.github.io"}
@@ -1135,78 +1136,6 @@ Chair", url: "https://datascienceafrica.org"}
   bio: ""
   thumbnailUrl: issa.svg 
 -
-  id: dummy
-  name: "TBD"
-  surname: ""
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg
--
-  id: mazumdar
-  name: "Suvodeep"
-  surname: "Mazumdar"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: Dr_Suvodeep_Mazumdar.svg 
--
-  id: nlebedim
-  name: "Valentine"
-  surname: "Nlebedim"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg 
--
-  id: dauwels
-  name: "Justin"
-  surname: "Dauwels"
-  company: "TU Delft"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: JustinDauwels.svg
--
-  id: kerner
-  name: "Hannah"
-  surname: "Kerner"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg
--
-  id: Edge_Impluse
-  name: "Edge"
-  surname: "Impluse"
-  company: "Edge Impluse"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg
--
-  id: alessandro
-  name: "Alessandro "
-  surname: "Solbiati"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg
--
-  id: thomas
-  name: "Thomas"
-  surname: "G. Dietterich"
-  title: "Professor (Emeritus)"
-  company: "Oregon State University"
-  bio: ""
-  thumbnailUrl: ThomasDietterich.svg
--
-  id: AminiAI
-  name: "AminiAI"
-  surname: ""
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg  
--
   id: wanzare
   name: "Lillian"
   surname: "Wanzare"
@@ -1247,6 +1176,30 @@ Chair", url: "https://datascienceafrica.org"}
   bio: ""
   thumbnailUrl: MelissaOmino.svg 
 -
+  id: mazumdar
+  name: "Suvodeep"
+  surname: "Mazumdar"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: Dr_Suvodeep_Mazumdar.svg 
+-
+  id: dauwels
+  name: "Justin"
+  surname: "Dauwels"
+  company: "TU Delft"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: JustinDauwels.svg
+-
+  id: thomas
+  name: "Thomas"
+  surname: "G. Dietterich"
+  title: "Professor (Emeritus)"
+  company: "Oregon State University"
+  bio: ""
+  thumbnailUrl: ThomasDietterich.svg
+-
   id: muhawenayo
   name: "Gedeon"
   surname: "Muhawenayo"
@@ -1254,6 +1207,54 @@ Chair", url: "https://datascienceafrica.org"}
   title: "TBD"
   bio: ""
   thumbnailUrl: GedeonMuhawenayo.svg
+-
+  id: dummy
+  name: "TBD"
+  surname: ""
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: nlebedim
+  name: "Valentine"
+  surname: "Nlebedim"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg 
+-
+  id: kerner
+  name: "Hannah"
+  surname: "Kerner"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: Edge_Impluse
+  name: "Edge"
+  surname: "Impluse"
+  company: "Edge Impluse"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: alessandro
+  name: "Alessandro "
+  surname: "Solbiati"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: AminiAI
+  name: "AminiAI"
+  surname: ""
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg  
 -
   id: mbuvha
   name: "Rendani"
