@@ -1272,14 +1272,6 @@ Chair", url: "https://datascienceafrica.org"}
   bio: ""
   thumbnailUrl: person.svg  
 -
-  id: Edge_Impluse
-  name: "Edge"
-  surname: "Impluse"
-  company: "Edge Impluse"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg
--
   id: dummy
   name: "TBD"
   surname: ""
@@ -1287,5 +1279,14 @@ Chair", url: "https://datascienceafrica.org"}
   title: "TBD"
   bio: ""
   thumbnailUrl: person.svg
+-
+  id: Edge_Impluse
+  name: "Edge"
+  surname: "Impluse"
+  company: "Edge Impluse"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
   
 
