@@ -1553,6 +1553,22 @@ Chair", url: "https://datascienceafrica.org"}
   bio: ""
   thumbnailUrl: person.svg
 
+  id: Suleiman_Kagumire
+  name: "Suleiman"
+  surname: "Kagumire"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Comfort_Ilevbare
+  name: "Comfort"
+  surname: "Ilevbare"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
   
 
 
