@@ -500,8 +500,8 @@
   presentation: ""
 -
   id: book_launch
-  title: "Prof. Neil Lawrence’s book launch"
-  description: "Prof. Neil Lawrence’s book launch: The Atomic Human: What Makes Us Unique in the Age of AI"
+  title: "Prof. Neil Lawrence’s book launch - The Atomic Human: What Makes Us Unique in the Age of AI"
+  description: "Prof. Neil Lawrence’s book launch - The Atomic Human: What Makes Us Unique in the Age of AI"
   subtype: presentation
   speakers: [neil]
   language: en
