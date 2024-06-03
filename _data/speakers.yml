@@ -1537,6 +1537,22 @@ Chair", url: "https://datascienceafrica.org"}
   bio: ""
   thumbnailUrl: person.svg
 
+  id: Bob_Tumu
+  name: "Bob"
+  surname: "Tumushiime"
+  company: "UBO"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Denish_Azamuke
+  name: "Denish"
+  surname: "Azmuke"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
   
 
 
