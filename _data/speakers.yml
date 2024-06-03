@@ -233,10 +233,10 @@ Chair", url: "https://datascienceafrica.org"}
     - {name: "site", link: "https://www.linkedin.com/in/andreipaleyes?originalSubdomain=uk"}
 -
   id: charles
-  name: "Charles"
+  name: "Isah Charles"
   surname: "Saidu"
-  title: "PhD Candidate"
-  company: "African University of Science & Technology, Abuja"
+  title: "Lecturer"
+  company: "Baze University, Nigeria"
   thumbnailUrl: Charles-Saidu.svg
   social:
     - {name: "twitter", link: "https://twitter.com/charlesity"}
