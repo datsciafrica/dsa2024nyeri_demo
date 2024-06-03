@@ -1521,6 +1521,22 @@ Chair", url: "https://datascienceafrica.org"}
   bio: ""
   thumbnailUrl: person.svg
 
+  id: Jonah_Mubuuke
+  name: "Jonah"
+  surname: "Kyagaba"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
+  id: Imed_Eddine
+  name: "Imed"
+  surname: "Haouli"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.svg
+
   
 
 
