@@ -533,7 +533,7 @@
   title: "Health (15 mins talks)"
   description: "Health (15 mins talks)"
   subtype: presentation
-  speakers: [thiga]
+  speakers: [Bonface_Kil, Belayneh_end]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -542,7 +542,7 @@
   title: "Responsible AI in Africa: Challenges and Opportunities"
   description: "Responsible AI in Africa: Challenges and Opportunities"
   subtype: presentation
-  speakers: [osei]
+  speakers: [Elizabeth_Mu]
   language: en
   complexity: "Intermediate"
   presentation: "tbd" 
@@ -560,7 +560,7 @@
   title: "Pollution and Environment (15 mins talks and panel discussion)"
   description: "Pollution and Environment (15 mins talks and panel discussion)"
   subtype: presentation
-  speakers: [morine]
+  speakers: [morine, Austin_Kaburia, Wabinya_Fidel, Noble_Mutabazi,Joel_Tibabwetiza]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -569,7 +569,7 @@
   title: "AI for finance"
   description: "AI for finance"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [Bob_Tumu, Denish_Azamuke]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -578,7 +578,7 @@
   title: "Comparison Investigation On The Material Properties Of Tio2 And Cdo And Zno:Al:Ga Co-Doped Nanoparticles For Possible Solar Cell Applications "
   description: "Comparison Investigation On The Material Properties Of Tio2 And Cdo And Zno:Al:Ga Co-Doped Nanoparticles For Possible Solar Cell Applications "
   subtype: presentation
-  speakers: [dummy]
+  speakers: [Sharon_Kiprotich]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -605,7 +605,7 @@
   title: "Language (15 mins talks)"
   description: "Language (15 mins talks)"
   subtype: presentation
-  speakers: [ernest]
+  speakers: [Bakare_Firdous, Bakare_Firdous, Sulaiman_Kagumire, Comfort_Ilevbare, George_Igwegbe]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -629,10 +629,10 @@
   presentation: "tbd"
 - 
   id: neurology_and_Psychiatry
-  title: "Machine Learning for Applications in Neurology & Psychiatry "
-  description: "Machine Learning for Applications in Neurology & Psychiatry "
+  title: "Leveraging Machine Learning to Enhance the Reliability of Wheelchair Navigation with Hybrid EMG-EOG for PWDs"
+  description: "Leveraging Machine Learning to Enhance the Reliability of Wheelchair Navigation with Hybrid EMG-EOG for PWDs"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [George_Mageto, ]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -641,7 +641,7 @@
   title: "Plant Diseases (15 mins talks)"
   description: "Plant Diseases (15 mins talks)"
   subtype: presentation
-  speakers: [owomugisha, Cedric_Kiplimo]
+  speakers: [Angela_Muthama, Wayne_Okello]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
