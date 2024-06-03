@@ -104,7 +104,7 @@
     - {
         startTime: "14:00",
         endTime: "16:00",
-        sessionIds: [ML_Ops, ML_remote_sensing, Automatic_Speech_Technology]
+        sessionIds: [ML_remote_sensing, Automatic_Speech_Technology, ML_Ops]
     }
     - {
      	startTime: "16:00",
