@@ -386,7 +386,7 @@
   title: "Health (15 mins talks) [DS-I Africa Consortium, Artificial Intelligence for Efficient and Effective Radiological Workflows]"
   description: "Health (15 mins talks) [DS-I Africa Consortium, Artificial Intelligence for Efficient and Effective Radiological Workflows]"
   subtype: presentation
-  speakers: [thiga]
+  speakers: [Francis_Agama]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -395,7 +395,7 @@
   title: "Speech-to-Speech Translation"
   description: "Speech-to-Speech Translation"
   subtype: presentation
-  speakers: [ernest]
+  speakers: [Peter_Ochieng]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -413,7 +413,7 @@
   title: "Animal Conservation (15 mins talks and panel discussion)"
   description: "Animal Conservation (15 mins talks and panel discussion)"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [Irene_korir, Ann_wam, Marion_Warau, Manasseh_Samantha]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -431,7 +431,7 @@
   title: "Machine Learning for Applications in Neurology & Psychiatry "
   description: "Machine Learning for Applications in Neurology & Psychiatry "
   subtype: presentation
-  speakers: [muguro]
+  speakers: [dauwels]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -458,7 +458,7 @@
   title: "Topic Modelling for Climate and Gen AI"
   description: "Topic Modelling for Climate and Gen AI"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [Patricia_Ojonoka, Epuret_Moses]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -485,7 +485,7 @@
   title: "Geospatial and digital data  (15 mins talks)"
   description: "Geospatial and digital data  (15 mins talks)"
   subtype: presentation
-  speakers: [johnquinn]
+  speakers: [Rahman_Sanya, Flora_Oladipupo]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -641,7 +641,7 @@
   title: "Plant Diseases (15 mins talks)"
   description: "Plant Diseases (15 mins talks)"
   subtype: presentation
-  speakers: [dina]
+  speakers: [owomugisha, Cedric_Kiplimo]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
