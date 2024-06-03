@@ -114,7 +114,7 @@
     - {
     	startTime: "16:30",
     	endTime: "17:30",
-    	sessionIds: [ML_remote_sensing_lab, Automatic_Speech_Technology_lab, , Graphcast]
+    	sessionIds: [ML_remote_sensing_lab, Automatic_Speech_Technology_lab, Graphcast]
     }
 -
   date: "2024-06-05"
