@@ -1208,21 +1208,29 @@ Chair", url: "https://datascienceafrica.org"}
   bio: ""
   thumbnailUrl: GedeonMuhawenayo.svg
 -
-  id: dummy
-  name: "TBD"
-  surname: ""
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg
--
   id: nlebedim
   name: "Valentine"
   surname: "Nlebedim"
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.svg 
+  thumbnailUrl: ValentineNlebedim.svg 
+-
+  id: alessandro
+  name: "Alessandro "
+  surname: "Solbiati"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: AlessandroSolbiati.svg
+-
+  id: mbuvha
+  name: "Rendani"
+  surname: "Mbuvha"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: rendaniMbuvha.svg
 -
   id: kerner
   name: "Hannah"
@@ -1230,19 +1238,27 @@ Chair", url: "https://datascienceafrica.org"}
   company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.svg
+  thumbnailUrl: hannahKerner.svg
 -
-  id: Edge_Impluse
-  name: "Edge"
-  surname: "Impluse"
-  company: "Edge Impluse"
+  id: tum
+  name: "Jackline"
+  surname: "Tum"
+  company: "TBD"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.svg
+  thumbnailUrl: jacklineTum.svg
 -
-  id: alessandro
-  name: "Alessandro "
-  surname: "Solbiati"
+  id: muguro
+  name: "Joseph"
+  surname: "Muguro"
+  company: "Dedan Kimathi University of Technology"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: josephMuguro.svg
+-
+  id: mutuku
+  name: "Leonida"
+  surname: "Mutuku"
   company: "TBD"
   title: "TBD"
   bio: ""
@@ -1256,39 +1272,20 @@ Chair", url: "https://datascienceafrica.org"}
   bio: ""
   thumbnailUrl: person.svg  
 -
-  id: mbuvha
-  name: "Rendani"
-  surname: "Mbuvha"
-  company: "TBD"
+  id: Edge_Impluse
+  name: "Edge"
+  surname: "Impluse"
+  company: "Edge Impluse"
   title: "TBD"
   bio: ""
   thumbnailUrl: person.svg
 -
-  id: mutuku
-  name: "Leonida"
-  surname: "Mutuku"
+  id: dummy
+  name: "TBD"
+  surname: ""
   company: "TBD"
   title: "TBD"
   bio: ""
   thumbnailUrl: person.svg
--
-  id: tum
-  name: "Jackline"
-  surname: "Tum"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg
--
-  id: muguro
-  name: "Joseph"
-  surname: "Muguro"
-  company: "Dedan Kimathi University of Technology"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.svg
-
-
-   
   
 
